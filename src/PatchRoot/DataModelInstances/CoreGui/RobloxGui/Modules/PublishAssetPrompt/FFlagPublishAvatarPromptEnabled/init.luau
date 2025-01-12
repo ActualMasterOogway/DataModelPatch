@@ -1,0 +1,2 @@
+local v0 = require(script.Parent.FFlagPublishAvatarPromptEnabledAllPlatforms);
+return (not not game:DefineFastFlag("PublishAvatarPromptEnabled5", false) or v0) and game:GetEngineFeature("AvatarCreationService");
