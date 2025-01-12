@@ -1,0 +1,1 @@
+return game:DefineFastFlag("ReplaceChromeNotificationBadge2", false);

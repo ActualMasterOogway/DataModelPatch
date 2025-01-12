@@ -1,0 +1,1 @@
+return require(script.Parent.UIBlox.FFlagUIBloxImageTextLabelTextXAlignment) and game:DefineFastFlag("BlendedSerpUserPresenceExperiment_v3", false);

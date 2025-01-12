@@ -1,0 +1,1 @@
+return require(script.Parent.FFlagFriendsCarouselPaginatedFriendsEnabled) and game:DefineFastFlag("PaginatedFriendsCarouselEnabledForAll", false);

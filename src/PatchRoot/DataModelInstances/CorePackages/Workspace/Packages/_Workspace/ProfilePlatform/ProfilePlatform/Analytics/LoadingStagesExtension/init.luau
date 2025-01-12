@@ -1,0 +1,3 @@
+return {
+    CTALoaded = "CTALoaded"
+};

@@ -1,0 +1,1 @@
+return game:DefineFastFlag("AddFriendsMigrateAnalytics_v3", false);

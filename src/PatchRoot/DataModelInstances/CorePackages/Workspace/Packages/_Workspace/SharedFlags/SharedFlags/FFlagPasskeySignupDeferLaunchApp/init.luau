@@ -1,0 +1,1 @@
+return game:DefineFastFlag("PasskeySignupDeferLaunchApp", false) and game:GetEngineFeature("MultipageSignupMetadataMapKeyAvailable");

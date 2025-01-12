@@ -1,0 +1,22 @@
+return {
+    UnibarSongbirdWrapper = require(script.Components.UnibarSongbirdWrapper), 
+    DismissButton = require(script.Components.DismissButton), 
+    LikeButton = require(script.Components.LikeButton), 
+    MusicIcon = require(script.Components.MusicIcon), 
+    MusicPlayingIcon = require(script.Components.MusicPlayingIcon), 
+    TrackDetails = require(script.Components.TrackDetails), 
+    LikeButtonWrapper = require(script.Components.LikeButtonWrapper), 
+    PeekTrackDetailsWrapper = require(script.Components.PeekTrackDetailsWrapper), 
+    OverflowButton = require(script.Components.OverflowButton), 
+    ChromeWindowWrapper = require(script.Components.ChromeWindowWrapper), 
+    ReportAudioPopup = require(script.Components.ReportAudioPopup), 
+    ReportAudioPopupContext = require(script.Components.ReportAudioPopupContext), 
+    PerformanceExperiment = require(script.Components.PerformanceExperiment), 
+    DebugAudioEmitters = require(script.Components.DebugAudioEmitters), 
+    AnalyticActions = require(script.Analytics.AnalyticActions), 
+    sendAnalytics = require(script.Analytics.sendAnalytics), 
+    useCurrentSong = require(script.Hooks.useCurrentSong), 
+    useMusicPeek = require(script.Hooks.useMusicPeek), 
+    getFFlagSongbirdUnverifiedMusicState = require(script.Flags.getFFlagSongbirdUnverifiedMusicState), 
+    ["jest.config"] = script["jest.config"]
+};

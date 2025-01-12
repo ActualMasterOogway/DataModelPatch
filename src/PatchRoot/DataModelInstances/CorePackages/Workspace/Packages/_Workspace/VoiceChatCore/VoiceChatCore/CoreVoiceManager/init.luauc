@@ -1,0 +1,310 @@
+·LocalPlayerUserIdIsVoiceEnabledForUserIdAsyncpcall$Unable to get voice enabled status: debugLogUserLayerExposureGetLayerDatapreviousSessionIdHttpRbxApiServiceeventEmitterservicePermissionsServiceNotificationServiceAvatarChatService	AnalyticsSequenceNumbersSignalREventTableaudioDevicesBlockStatusChangedAppStorageServiceEventEmitternewsetmetatableInstanceBindableEventshouldThrottleParticipantUpdateparticipantsStateThrottleTimelastParticipantsStateUpdatelastStateUpdateCountertaskspawnemitaddListener	subscriberemoveAllListenersunsubscribeAllGot user call statetracestatus
+CallStatusIdlerawValueRingingisInCallmutedcallMutedStateChanging call muted state to {}User not in call {}getCallStateandThencatchCheckCallStateWithPromiseChecking user call state!Error checking user call state {}CheckCallStatebind
+GetRequestgameGameIdtostringPlaceId_GetShowAgeVerificationOverlay$_getShowAgeVerificationOverlayResult%_getShowAgeVerificationOverlayPromiseawaitFetchAgeVerificationOverlay_GetShowPhoneVerificationUpsell%_getShowPhoneVerificationUpsellResulttypetable	valuePropPHONE_UPSELL_VOICE_CHAT_PROPNone&_getShowPhoneVerificationUpsellPromiseFetchPhoneVerificationUpsell
+DictionarymapDisablePhoneVerificationUpsellGetSessionIdGetNudgeAnalyticsDataisUniverseEnabledForVoiceisPlaceEnabledForVoiceisUniverseEnabledForAvatarVideoisPlaceEnabledForAvatarVideoEnumAvatarChatServiceFeatureUniverseAudio	IsEnabled
+PlaceAudioUniverseVideo
+PlaceVideoisUserEligibleisVoiceEnabledisAvatarVideoEligibleisAvatarVideoEnabledisUserVerifiedForVoiceisBannedbannedUntilUserAudioEligible	UserAudioUserVideoEligible	UserVideoUserVerifiedForVoice
+UserBanned!universePlaceVoiceEnabledSettingsvoiceSettings3avatarChatUserAndPlaceSettingsValueOfClientFeaturesGetClientFeaturesAsync%resolveAvatarChatUserAndPlaceSettingsThrottlingPriorityDefaultHttpRequestTypePlayersGetAsyncFullUrl
+JSONDecodemute some playersensureInitialized_mutedAnyonemutedPlayersSubscribePauseparticipantsisMutedLocallyparticipantsUpdateFirePlayerMutedByLocalUserActive	groupTypecontextJoinWithVoiceMuteDatareportVoiceMuteGroupToggleMuteSomeGetMutedAnyonemute player IsSubscribePausedSetting mute for {} to {}shortenonPlayerMuteToggledisMutedOnPlayerMutedpairsuserIdtargetUserIdtonumberreportVoiceMuteIndividualToggleMutePlayermute allmuteAllSetting self mute all to {}Local muting {} to '{} = {}'NameSubscribePauseAllmuteAllChangedVOICE_GROUP_TYPEALLMuteAllcommunicationPermissionsResultFetchVoicePermissionsinvalidResponseERROR_reportJoinFailed!verifyUniverseAndPlaceCanUseVoiceSeamlessVoiceFTUXGetItemtrue
+GetService(Failed to read FTUX/STUX from AppStoragewarningseamlessVoiceStatusUser not eligible for FTUX/STUXIsUserInFTUX#Voice settings endpoint returned {}ostimeUserVoiceEnabledIN_EXP_PHONE_UPSELL_IXP_LAYER	VoiceChat(EXIT_CONFIRMATION_PHONE_UPSELL_IXP_LAYER!UserEligibleForInExperienceUpsell	SuspendedChangeVoiceJoinProgressIsSeamlessVoiceGetVoiceConnectCookieValue1Suspending voice join due to voice connect cookieUserOnlyEligibleForVoice&Suspending voice join for opt-out user$UserEligibleForLikelySpeakingBubbles"OnShowLikelySpeakingBubblesChangeduniverseNotEnabled!OnUserAndPlaceCanUseVoiceResolvedplaceNotEnableduserNotEnableduserAndPlaceCanUseVoicetypeofStatus
+AUTHORIZEDListfindmissingPermissionsPermissionsMICROPHONE_ACCESSvoicePermissionGrantedGetPermissionsRawGetPermissionshasMicPermissionsDENIEDresolve(No permission response, rejecting accessnoPermissionResponserejectPermission status {}OnRequestMicPermissionResolvedOnRequestMicPermissionRejectedpermissionPromise"PermissionProtocol already invokedRequesting device permissionhasPermissionsLISTEN_AND_TALKpermissionStatePENDING_MICdeniedPermissionsLISTEN_ONLYPPermissionsService returned unknown permission state. Defaulting to listen only.errorPermissionsService call failed.5Joining without mic permissions. Permission State: {}requestPermissionsrequestMicPermissionpreviousGroupIdpreviousMutedStateJoinByGroupIdTokenattemptVoiceRejoinEnabling voiceClientFeaturesGetPropertyChangedSignalOnceEnableVoiceVoiceJoinProgressVoiceJoinProgressChangedSeamlessVoiceStatusEnabledExistingUserEnabledNewUser"showVoiceInExperienceUpsellVariantIN_EXP_UPSELL_VARIANTVARIANT1VARIANT2VARIANT3!UserInInExperienceUpsellTreatmentshowVoiceInExperienceUpsell@Place is voice enabled but user is not, delaying voice rejectionEventWaitAttempting voice rejoinuserEligibleJoiningVoice access deniedinfoUserNotAvailable	availableVoiceChatEnabledRccPropertiesGetEngineFeatureIsLoadedLoadedUseNewAudioApiEnableDefaultVoice VoiceChatEnabledForUniverseOnRccVoiceChatEnabledForPlaceOnRccADisabling voice chat due to RCC Response. Universe: {}, Place: {}PlaceNotAvailableVoiceChatSupported<Voice Chat is not Available, rejecting canUseService promisecanUseServicePromisedefercanUseServiceAsyncrecentUsersInteractionDatajoin_setRecentUserState!_updateRecentUsersInteractionDatagetRecentUsersInteractionDataGetSignalREventGetPlayerByUserIdlastHeardTimeParticipants state changedipairsparticipantLeftOnVoiceParticipantRemovedparticipantJoinedOnVoiceParticipantAddedplayerOnVoiceParticipantToggleMutedupdatedParticipantstickwaitOnStateChangedVoiceChatStateFailedLeavingEndedIsPublishPaused
+localMutedmuteChanged
+GetGroupId#State Changed to Failed. Reason: {}GetAndClearCallFailureMessageJoiningRetryJoinedState Changed to Ended from {}OnRetryRequestedOnVoiceJoinonStateChangedUpdateLocalMeteringisActive	isTalkingtalkingChangedUser ModeratedOnPlayerModeratedLeaveUser Moderated oldShowPlayerModeratedMessagereportReceivedNudgeOnVoiceToxicityModalOnVoiceToxicityToast"OnVoiceReverseNudgeIconColorChangeBlocking {}SubscribeBlockUnBlocking {}SubscribeUnblockTempSetMicMutedToggleMic	ToggleMicsetup participant listenersParticipantsStateChangedConnectparticipantConnectionJoined voice chat {}StateChangedstateConnectionlocalMeteringTaskGetVoiceChatApiVersionPlayerMicActivitySignalChangemicConnectionParticipantModeratedFromVoiceplayerModeratedConnection$VoiceChatServicePlayerModeratedEventLocalPlayerModeratedconnectSetting up voice nudge handlersVoiceToxicityModalvoiceToxicityModalConnectionVoiceToxicityToastVoiceToxicityToastConnection'Setting up voice reverse nudge handlers VoiceReverseNudgeIconColorChangevoiceReverseNudgeConnectionblockConnectionhookupAudioDeviceInputListener"tempSetMicMutedToggleMicConnectionSetupParticipantListenersFound new AudioDeviceInputkeysFound existing AudioDeviceInputaudioDeviceInputAddedChecking for AudioDeviceInputCheckAudioInputExistscheckAndUpdateSequenceAudioDeviceInputIsA&Found new audio device instance for {}CreateAudioDeviceDataOnAudioDeviceInputAddedStartAnalysisonInstanceAddedSendMuteEventSetUserActiveWaitForChildGetSendMuteEventWireSourceInstanceTargetInstanceParentWireUpGetAnalysisHost	_AnalyzerFindFirstChildAudioAnalyzerGetAnalyzermathlog10
+toDecibels	PeakLevelIsSignalActiveOutputGetConnectedWiresIsDescendantOfDestroyStopAnalysisVOICE_CONNECT_DISCONNECT_KEYSetItemFlushSetVoiceConnectCookieValue
+FireServerSetAndSyncActive-Mismatch between LocalMuted and device.ActiveOnDevicePlayerChangedOnDeviceMuteChangedOnDeviceActiveChanged9Overwriting Active State to match Iris call. .Active = {}onPlayerChangedMutedonMutedChangedonActiveChanged"Removing AudioDeviceInput {} {} {}for user
+DisconnectOnAudioDeviceInputRemovedonInstanceRemove!Hooking up audio device listenersAudioInstanceAddedDescendantAddedFindFirstChildOfClass Found local user audio device {}Creating default voice listener+SoundServiceControlsDefaultListenerLocationAudioListener	workspaceCurrentCameraAudioDeviceOutputRbxDefaultVoiceEmitter	GetTaggeddestroyDefaultEmitterGetInstanceAddedSignalCharacterAddedavoidEmitting	CharacterDescendantRemovingGetDescendantsPlayerRemoving Rejoining current channel {}OnInitialJoinFailedRejoinCurrentChannel1Rejoining previous channel {} with mute status {}RejoinChannelRejoining voiceVoiceChatServicerejoinVoiceRejoinVoice	namespace
+jsonDecodedetailSequenceNumberSignalR message {}: {}"reportReconnectDueToMissedSequencereportOutOfOrderSequencesignalRConnectionState	ConnectedSignalR disconnectedRobloxEventReceivedRobloxConnectionChangedwatchSignalR
+getService$Got permissions, setting state to {}
+toggle mic*In pending mic mode, requesting permission6User tried to unmute despite being in listen only modeOnPermissionRequestedSetting self mute to {}Could not find SendMuteEventPublishPauseOnShowDataConsentToastreportVoiceMuteSelfclientSessionId	channelIdGetChannelIdreportVoiceChatJoinResultOnReportJoinFailedIsContextVoiceEnabledvoiceEnabledUseNewVoiceChatServiceVoiceChatInternalUsing VoiceChatInternal	joinVoice)Starting Voice Chat Client Join Operation:EnableVoiceChat flag is enabled but GetService panicked {}getServiceFailed&VoiceChatService is not set after initcontextNotEnabledOnVoiceChatServiceInitialized
+_asyncInitNew Likely Speaking Users: {}
+JSONEncodeOnLikelySpeakingUsersUpdatedGetLikelySpeakingUsersEvent#Connecting to likely speaking usersOnClientEventSendLikelySpeakingPingManager already initializedinitPromiseallLikelySpeakingUsersEvent!Polling for likely speaking users	asyncInitSendLikelySpeakingUsersReceiveLikelySpeakingUsersEventReceiveLikelySpeakingUsersGetReceiveLikelySpeakingEvent+Could not find likely speaking users event."Sending likely speaking user event[corescripts VCS Manager] Attempting to  before calling initget session idget channel idscriptCollectionServiceSoundServiceHttpServiceRobloxReplicatedStoragerequireIXPServiceWrapper	ConstantsUtilsFlagsRequestsPromiseCryoCallProtocoldefaultEnumsPermissionsProtocolBlockingUtilityCoreScriptsInitializer
+CoreLogger!GetFFlagAlwaysSetupVoiceListenersGetFFlagFixNewAudioAPIEcho#GetFFlagHideVoiceUIUntilInputExistsGetFFlagOverwriteIsMutedLocally!GetFFlagReverseLocalMuteOverwrite"GetFFlagReceiveLikelySpeakingUsersGetFFlagUseAudioInstanceAddedGetFFlagSetActiveWhenConnecting&GetFFlagUpdateDeviceInputPlayerChanged&GetFFlagHideUIWhenVoiceDefaultDisabled$GetFFlagEmitCorrectEventForVoiceBans StringKeyFixForParticipantsTableDefineFastFlag0GetFFlagVoiceChatTeamTestMuteIconOutOfSyncFixLuaIsSeamlessVoiceCheckBugfixGetFFlagEnableVoiceRccCheck!GetFFlagLuaConsumePlayerModeratedGetFFlagEnableNudgeAnalyticsGetFFlagEnableErrorIconFixSharedFlagsGetFFlagPlayerListAnimateMic#GetFFlagEnableLuaVoiceChatAnalyticsGetFFlagUseLuaSignalrConsumerGetFFlagClearVoiceStateOnRejoinGetFFlagLocalMutedNilFixGetFFlagEnableVoiceNudgeGetFFlagEnableVoiceReverseNudge+GetFFlagClearUserFromRecentVoiceDataOnLeaveGetFFlagVoiceUseAudioRoutingAPI-GetFIntVoiceUsersInteractionExpiryTimeSeconds GetFFlagAvatarChatServiceEnabled,GetFFlagVoiceChatServiceManagerUseAvatarChat!GetFFlagJoinWithoutMicPermissions#GetFFlagAvatarChatCoreScriptSupport%GetFFlagBatchVoiceParticipantsUpdates#GetFIntThrottleParticipantsUpdateMsGetFFlagSeamlessVoiceFTUXGetFFlagNonVoiceFTUX#GetFFlagGetRawMicrophonePermissions"GetFFlagEnableFtuxExitOnMuteToggle&VoicePerformanceThrottlingIXPLayerNameVoice.PerformanceDefineFastString'ThrottleParticipantsUpdateIXPLayerValueThrottleParticipantsUpdatePollLikelySpeakingV2PromisifyVoiceRequestsPollVoiceStateEnsureVoicePermissionsFetchedPersistentVoiceDisconnectV2!GetFFlagShowLikelySpeakingBubblesVoiceSetInitPromiseFirstSeamlessJoinWithoutVoice!VoiceUnhandledPromiseRejectionFix,EnableCoreVoiceManagerEmitOnReportJoinFailed UseAudioAnalyzerForLocalMeteringEnableMutedByLocalUserGetFFlagEnableVoiceSignal*GetFFlagEnqueueVoiceClientJoinOperationLuaGetFFlagUseMicPermForEnrollment.GetFFlagEnableInExpPhoneVoiceUpsellEntrypointsFFlagFixTopBarSlowLoad'GetFFlagVoiceChatClientRewriteMasterLuaWATCHED_NAMESPACESWATCHED_MESSAGE_TYPESVOICE_CHAT_AVAILABILITY-MIN_VOICE_CHAT_API_VERSION_IS_CONTEXT_ENABLED-MIN_VOICE_CHAT_API_VERSION_LOCAL_MIC_ACTIVITYPERMISSION_STATEVOICE_JOIN_PROGRESSGetShowAgeVerificationOverlayGetShowPhoneVerificationUpsellIDLE__index!GetAfterBlockedStatusChangedEvent â    	   1     
+ 	  	  1    Ê     ˙              Ü                           @  F  F    	         	 	         @ Ö                        	   	   ÿ          ñ             t6	 
+  
+	ç    	®   	  é   
+Ô   
+
+	Æ   	Ö   	i   	1   	A   	 
+Ô    
+
+	»   5
+      
+	Ø   5
+      
+		   5
+      
+	
+    	'   
+ 
+ 	
+ 
+	m   	
+ J=	
+       A		 		 		 
+    L	 	     < Å :	¯ˇ   	  	>   	  	ù   	  	s   	  	≈   		 	
+   
+ 	   	  hêÅ
+  F F  F F	 F
+ 		
+ 
+*	
+	ù   	   –A@
+ F	 F
+ 		 
+ 	 
+  >     	
+ 	
+   A < Å  hêÅ     @è@  –Aﬂ                                     Ú             ˇ                                    È       	A   Æ     ?  v      ! °!       !        Æ      ä     " •#       &        Æ    ü     $ ©%     *      .	    M    Ã   	 ;   í   G        Ã   	 ;   ‚   G       	     	     	   	  
+     M     &'()*+,-./0 Ø                                         1      	      M     1' ª       =      	  Õ      F F F   µ   @ F       234≠5               .      .	    M    Ã   	 ;   í   G        Ã   	 ;   ‚   G       	     	     	   	  
+     M     &'()*+,-./0 ≈                                         G      	      M     1' —       S       	     Õ       F F F   µ    @ F         234
+√               D      	    M       @  F F  F F    	         6'   @7¡8                 B      	  	 j           @ª   I?   P@    @≈   I?   P@	          9:;   @<=  P@> „?                         ¸ d      	  	  	  	     '         	       ?@         ˇ        q      &       	    È   
+ 	 Ô     F   F F   È    È        	        '              @AB?ÏC                         ˇ      m      	  	 j           @ª   I?   P@   9:;   @<=  P@ áD             ¸ã      !	  	 	 ó    	  "   	 I(     @P   ÄJ   M     J     	 _   ?       DEF   @GHIJ ü                          ˝ †      + "     5       "    5       U    "       U      U   	  Ô     F   F  F  F  U       "     EKBîL                            	        ô       	  _     ?     IJ ∞       ±      	  ©    ê    "   @ F  "     MNE≠O       ˛  Æ      		  1    Ê    h      P ∂Q         ∑      t6  A    	 `¿
+   û     A     `¿
+   w    A     `¿
+   Ú    A     `¿
+      6  A     `¿
+   j    A     `¿
+       A     `¿
+   Ó    A      `¿
+   ∞   	  	  A    " !`¿
+       ˆ    A    $ #`¿
+   ˛        6' Ó%   X&    (RSTU VWX`¿YZ`¿[`¿\`¿]^_`abcd`¿e`¿f`¿g`¿h!`¿i#`¿jk%& ªl   ˛      ˛      ˛      ˛      ˛               ˛      ˛              ˛               º           @ A   D    A                  @ml Ín              Î       	   ®    	  ¿ ¿  x    	   À	      
+
+Vop¿qr¿st ı                 ˜      	    @  F   F  F  -    @Ù:        ı      g   j        5           L" 	    
+ ¨   
+   Ö   
+  „       I?
+
+    p@	 x	    ı
+       ›   :›ˇ   	  !         L 	˘    	˘   Ê    	 
+ 	˘   	 1       	ï     	   2 	É   :Âˇ      »   6
+ 
+ù   
+Æ   
+    ;   Z     uvwxyz=  p@{|}~ÄÅÇ.ÉÑ ˝Ö                                    Ù                            ¯       ˝     ˛             w ©Ü   *      õ   1 j        	   	   ¨   2    Ö       2 	  	 ﬂ     M   	   c	   ›
+   	  9  ¨           L* 	˘   	' 
+˘   	
+Ê   	"    		 	
+ 	˘   	 
+1   	 
+   ï     		 	  
+    I?    A	
+
+	 
+ 	a   2
+  
+     É   :’ˇ     v      Ö     „      ÄA    = 	Ü   	
+    x   	 ı       		›
+   	:Úˇ     »   6! I>
+ 	#    B		I   Æ        ;$   =%     &ávwxàâä'ã}~z=  AåÄç!yé  ÄAè{|êÇ. ë   BÉí ≠ì                                                                                 Û                          ˝           ˝     .      Ç   j        	  E  1   	              L5 ˘   2 ˘   	
+ 	
+1   , 	   	 
+	 ˘   ∫
+   É       	  ï     	˘   	Ê   	 ¨   	
+    I?     A	
+
+	 
+ 	a   2
+  
+     É   : ˇ      Ö          PA    =	 x    ı   
+    ›   :ˆˇ        ›     »   6 	
+ 	
+ﬁ    	!   ù   Æ       ;"   Z#     $îvwïñ~óòÄxz=   Aåôé  PA{|}öÅÇ.õúÉÑ ‚ù                                                              ı                   ˛                ˝     c              r              ûn åü        ç      !	   	   r          	  	 Ò    h      Ó     w    û    nC†°¢jSR î£                       ï       	       ~    P       
+   §•¶ Æ          Ø      9	          @         @@  F  Fˇ 	  1            I( 
+   ê@P   ÄX    X   ∑   O	    	          2    ;   @ß  @@®©CF  ê@Gk™      @´!®¨                                           ©       	            C ˛     ˇ   
+   ˆ	   	   r      	 	 j         0@ª   I?   `@   0@≈   I?   `@	 	 	 Ò
+    h      Ó   X   	   M   	 ä     	    HÅ	 )  «   2 $ ˆ   2    		 	Z    Î   		 	_   Ü         		 	µ   	  Î   		 	_   Ü          }     			 	√    Ã   	
+ 
+      			 	√    Ã   	   »          	 ! "   			 	√    Ã     	   »     #    	 $ "   			 	√    Ã   	  '  òPÇ  F   	 	  ((    ) 	  v*   	 û+    ,  h      -    v*     	 	 Ò
+    h     w.    /  h     0    1  h       0    w.    2n9:;  0@<=  `@>†°¢jk≠'ûÆØ HÅ∞a±LI≤≥¥µ∂¨∑∏π∫ª  òPÇºΩ!RæøS¿^¡#≈¬                           ˝                                              ˛                                                                                                                       ∆   	   ,  I,     @P   Ä Ã   	  Ï   Æ       	 Î   V   ~   	  Ë	   ‚
+   2   	  Ï   Æ          √   @G(ƒ≈∆«»…  ¢À                         ˛          #      	        ∏    9   
+     F   	     	  	 v     Ã!&∑           8      	  Ô      F   F     '∂Õ        7       		   	                   ÕB Œ          O      6      	  Ï   Æ    	  Ï   £   Ã    	    ( Œƒ≈œ Ô              ˇ   p        F  F   	    	 v     Ã!*Ó          o      E	   	           Ã    	     	  	 Ò   h   	 y      	   Ã        	  	   •	       Ã   	 Ï
+   Æ          	      	 y    –(—“°¢”‘Àƒ≈ ˝                                                           ~       
+	       v    	          ’!– ê          í       
+	       v    	  y        ÷!” ï          ñ   		   ∞ 3     	   M    3     5     	 Ë   ‚   7     	 	   »       b 	          	 	 	   Ä@  F   F  -    i
+    @        , Ã   	 Ï   Æ       	 =        ' ~    	 «         B    	 8         	   ˛   	 8        
+ 	   ˛   	 8       	          	       	 
+ 	 Ô    F F   F      i
+    ı     F F F  F   F F F µ    F   F µ    F   F     3     3     ◊ÿ'… ∑Ÿ  Ä@⁄B(ƒ≈€‹»›ﬁﬂ‡·‚„–‰34)+,-.øÂ                                                                                                                                            Á   @        ≈     Å    Ö     Å      ÊÁË úË          ù       	   ª      ›      È} •       ¶      	    M    A    î     F   =    A   K     Í'ÎÏÌÓ1¢Ó                   £       
+      `        ›     Ô} ´∂        ¨      (     	   I(    @P   Ä X       X   ∑    	 W   ?   
+    	 W   F          	CF  @Gk™ÒÚÛ ∞∑                                 ±      "         ˚    	     ≤        	     ¸   
+    	     \          CÙıˆ˜¯ ¬˘                            √             X    Ó       X   ˆ   
+ X      2  Ó   w    ûkja^S Œ∫                     œ             X    Ó       X       Ó   w    ûkj^S Ÿ∞                ⁄               	    (   -         C    ∫˘C˙ „¥               ‰      '     	     «    	 Z    Î   	 _   Ü                     C    ∫∞±LI≤C˙ ¯º                            ˘   	   †	  ˚    	 0 	     	 √   )    	     	  ª   6   ˜   	     	  	   X
+       	   «     	  	 ;   Ã      	  ö   	  	 Ä   ´         0A +   L 	 I    0AU       0A   ˜   	  	 ∫    	 ü       	 b    	 
+   ' 	  	 b   	 
+      	 b    	   h    	 	 
+    	    h   	  	 !   ´      	   «       "¬Ôµ˚È¸˝˛ûk^ˇÄ∂ÅÇÉÑ;  0AÖÜáàâäãåçæ¢¿é ò                                                                                               ˝                                  	     2         Â –      Q      / ´    M    Ä   @ +   
+ 	      	 y           	 h	     F   F F F  F F F F  F   µ
+            Ñ;  @èÜê”ëí3:;ëì                                 8    » <     
+   & À    I?    @ 5      	  ©   ª     	  ©   ª    À    5     I?	    @ À      î=  @Mï ◊ñ                               ˇ  X        D     À    óî ·ò     b            6    ¸ Êô     g      L   Ä5       À   C    @@ À   =0 		  		 	    I? 
+   p@
+	
+  	    			 		
+ 	
+ I> 
+   ê@
+
+a   
+2	
+ ö   "	     
+ 
+     a   
+  	 	 ?   :œˇ   	 ©   ª    À     À     ÆØ  Äîé  @@z=  p@ë  ê@öõåJMï Îó                                                 ı           l   
+   ›	    M       @  ;9 	  	
+ 	
+   I? 
+   P@
+	
+	a   	 		  6	   ,†Äö   		°   			 	   I?
+ 	   P@	
+  
+			 	   	 
+   	      ›   	 
+  v   :∆ˇ  Ä    @ ; 		 	∆   	 
+    ›   	 
+  v   :Ôˇ  Ä   @A =y Ü   	
+ 
+
+ 	 
+   I?    P@	
+  	 
+   	
+
+a   
+ 	 
+	a   
+ 	
+  6   ,†Äö   	  a      
+
+°   
+	 
+	a   a   
+	    	
+   a   
+
+v   
+	
+ 
+
+
+ 	
+ 
+ 	 ¨   2 2
+ 
+x   	
+ 
+
+ 	
+ 
+
+ 	 ¨    	 ¨   2 2
+   
+x   
+x   	 
+1   
+ 
+ 
+x   	 
+   I?    P@
+	
+	 
+
+	 	 
+π   I?    P@
+:Üˇ   	 D   	 >    _ "   B	 s#   "	 ù$       4        	 s#   	 ı%   		  	 π     	    ›   	 5      π     4    L    	 ù$   	 s#   ""	 		 	≈(   ''+&≈(   	 ≈(   +  ®êÇ 	 ≈(   0    	 ı%   			 		 		 	π     		 	   ›   	 5      π     4        	 ı%   		  	 π     	    ›   	 5      π     ,ú'ù   @z=  P@åõÆØ ,†Äñû}ü!†°é  @Aè¢ö£x{ï§ó•  B|      Y@      ?¶ ®êÇ å	                            ˇ                              Û                   ˛                                     ˛                                         ˛                        ﬁ &                              ˝                                         ˝                   ˝      ç      Ô	       v       @˚   Æ             @˚   ;             @˚   M             @˚   7         	  Ö	   Ê
+   	  	  ù           	  ù   	  D   	 ›        	    ù     	  ù       	  ù   	  D   	 ›   	    @	˚   M       	  		  	Ö	   «   ≈   	  		  	Ö	   Ê
+   Å   	    @	˚   7       I 	  5         	    ù   	  ı   	
+  	
+   ›    	 	 	  
+Ö	   
+
+Ó   
+     	    @	˚   ;        	    @	˚   ∆    	    	    @	˚   Ò        	    @	˚   7       	 	 
+     	  	 v   	  	     		 	;       	    @	˚   Ò       	  	
+ 	
+Ò   Ã   	  	 v     ß!V   @®©Ä™´¨≠Æ}ØÊÁz|∞±≤≥¥µÔ∂∂ ˆ	∑                                                                                                                                                                                                            ˜      Ô	       v       @˚   Æ             @˚   ;             @˚   M             @˚   7         	  Ö	   Ê
+   	  	  ù           	  ù   	  D   	 ›        	    ù     	  ù       	  ù   	  D   	 ›   	    @	˚   M       	  		  	Ö	   «   ≈   	  		  	Ö	   Ê
+   Å   	    @	˚   7       I 	  5         	    ù   	  ı   	
+  	
+   ›    	 	 	  
+Ö	   
+
+Ó   
+     	    @	˚   ;        	    @	˚   ∆    	    	    @	˚   Ò        	    @	˚   7       	 	 
+     	  	 v   	  	     		 	;       	    @	˚   Ò       	  	
+ 	
+Ò   Ã   	  	 v     ß!V   @®©Ä™´¨≠Æ}ØÊÁz|∞±≤≥¥µÔ∂∂ π
+                                                                                                                                                                                                             :       		     Ê        Ä  ¯ˇ  ∏¶ Ä ˘
+      ˛z      %	   V    ¶   	  	  ù   N    Ä	      	  ¶   ›     	  ù   	 	      	  ¶   ›     π∫≠ª} Ç                                É       	           	  	 Ö   h    ç   	     v    	  Ö     ®      ºP	Ω!æ ì                       î       	           	  	 Ö   h    ç   	  	        v    	  Ö     ®      	øP	Ω¿!æ õ                  ˇ       ú      	   	 »      	 [    c    	  v     Q¡¬! ß                  ®      	   	 »      	 [    c    	  v     Q¡√! Ø                  ∞      	      v     ƒ! π       ∫      / 	      I?      @# 	  	 ﬂ          	  Ö     ÷     	  	 ﬂ          	  Ö     A	     
+z=  @≈ä∆«» æ                                          ø       	       Ú      …  –      —      å   j       5          5       À   5       π    Ö   a     F  F F   F F F F F F F «    ã   		 4  F   F
+ F  F F  Ö   ˚	     Ö   ˚	      †@˚	   Ò       	    Ö   ˚	            †@˚	   Ò    Ö   Ô    «    ç      Ö   Ô    F   F
+ F  F F «    ç   	  	 ∫     ¢      P0Å F    ¢      Ö   ¡   	      Ö   Ï    F   F «    ±   	    ÷    F  F   «    â        ¿A +     Ö   ı     F  F   F Á!    â   	  	  " M#   $  ÷    F F   «    ÿ%   &  ÷    F F   «    ˆ'   	  	  ( M#   )  ÷   	 F   «    ï*    '+   
+ F   F  F «    °,   	   Z-   	   Ö   ˛.     Ö   ˛.    F   Á!    /     0Àvzî§ÃÕŒ®V  †@≥œ–—â“  P0Å”‘’÷ô◊;  ¿AÿÜŸ⁄€'‹›ﬁﬂ‡·‚„‰…ÂABCDEFGHIJKLÉ	Ê                            ˇ    j      =                                                        >                                                              	                                                             ≤          Ñ  ˝   O        	       M    	     Á' ‡       ·      !	  ©    ¨   	    4    	    	  M       	 _   6     F F   «     MËÈ'Í¸ÕN€                              ‹      	    M   	 	 	 Ô     F F   F  
+ 	  Î'OÿÏ               Ÿ            Ø      Ø        Ø    "        Ø    (       ? ÍÌ                Ó      )  ˛   # 	    _    ›   	  ˘    ˘   ∫            g	   
+  v     ˆ     ÓÔÍ}~òÒÚ!Û ÅÙ                                         L     	   
+ ”    L     L     ıˆ˜ é¯                      Ä     *   $      Ä˘˙˚¸ ï˝              	       û˛        ∫     1	      	   0Ä  ∫    $    òˇÄ 0ÄÅ¸ ¢Ç   ¸                 I      Ä# ÉÑ  Ä ÆÖ        /   	   	      	  a          Ê   N    I   0Ä#‹ˇ       öÇÜÉÑ 0Ä ≤á            Ù           /      	       ı   L *    	
+ ≠    P   :Ùˇ     àâ˚äã ¿å"      ÿ+     ˙ 	      	     ˘         Ê      Ä    *   $     	~Ç  Ä˘˙˚¸ –Û;     Ω      A       
+	   m    	 Ò     ~        ç• ›           ^          @  F   F   P            @¶[‹∏             ]       	   m    	 Ò   	 I?    @      	   m      U      ç=   @éè Â                    f          @  F   F  F      @]‰ê       e      É     ∆    ˘   	  1        k     Ä¯~ë Ïí              n       k	   	   ;     	   Y 	 ˘   	 1           
+  	   / 	    	  É     	   ù   M     Ä	   	     –     : 	   ù   M 6     	   ù   	 É   2  -    	         	   	 	  ù   2   –      	   1     	  ˘     	  ¨	   	 ˘   Ê
+      	    	    ï     	     É   	      v    	   	   ˆ      å~Ä≠íìïxî!Û ©                                                                                             ™       	       v      ï! √      ƒ       "	       v    	   1     	    	     É   	  ˘     	  ¨   	 ˘   Ê      	     É     ñ!ïÄ~x »                              …   	   ¥5     ˘    	  1         	  ï   .  1      ï   ˘    $  ¨   ˘    Ê     ï     É     1       É   ˘      ¨   ˘    Ê      É   	  É   
+ 	  ù   M    Ä    –   !  ù   M      ù   É   2      	    	 
+     ù   2 É    ∆     k      	         2 	      É    ∆     k     î     F   F  F FˇF  F F F «       î    F   «   —   	   î    F   FˇF  «   u      ~ïxÄ≠í-ì¯ë/óÏÕòôöõ`abıÒ                                                                                                                                                  v   	   B  ˛   <   ;   	     ˘    ˘   Ê   M        	  u	   
+   —   
+      
+           v   	  ˘    ˘    Ê   P     ÓÔåúù~'õûöòü!Çã ÷†                                                     ◊      	    i      Ù Ô            	    i      Ù Û      Ù      	    ó      † ô         	   	          L ˘   	 ˘        	   ó   :Ûˇ     ~† ¢                 ˛ $      û	       	 1   	 	 	      F   «    	    P@d    F   «    ∏	   	  
+        i   	 ü   Q 	         P@ +      D Å    @AH   $     D Å $     D Å $      *   	  	     L 		 	ò   	 :˙ˇ   	  ^   	 ò   «   ó    	 û!   «   i"    	 û!   i"      P@≥#    F   «      P@G$   L 
+  i   :˚ˇ   	 ‘%    F   «     &°¢Õ;  P@£Ó§•Ùä¶ßÜ D Å®©  @A™¸˘´˙˚¨≠ÆØ∞±≤≥¥µefghÎ‰                                                                            ˇ                                         ˇ        Ï       <	   Ö      «     4 P 3    	  Ö    Ê   	  Ö    ®   	  	       	  5         	  ı   	     ›	   	  Ö        Å
+    	   v     Ø∂¨æ∑z|}Ë∏! ≠                                                  .          @  F   F  F      @j¨π       -       $	   Ö      ®    	   5          	   ı   	       ›    	   Ö    	 	    Å      	   v     æz|}Ë∏! ƒ                               E      	         	 P       0@  F   F  F    ∫∂  0@l¿ª               
+A      #	   	       Ö   ®   5           ı       ›      p@	 
+    >     ºæz|};  p@Ωßæ –ø                           Q   	   = é    	     	 Í    ˇ   	  	    q     ›   :   	    M   	   ù	          	 »
+   ◊     ˇˇ     	 »
+   n     ¿¡¬F}√ƒ'Ì≈∆ ·                                               b      ;P 9    Ä ¿    	   ö        p@	 Í	      =# 	
+ 	
+	  		  
+   		M   			   		ù   	
+   
+ 	   	 
+»   
+
+◊   
+ 	 
+ˇˇ 	 
+   	 
+»   
+
+n   
+:‹ˇ     «V»…¿ Çé  p@¡ƒ'Ì≈∆ ˚                                              ˆ |       1    «     F  F F F   F «    1    s    F F F  F   «     ÀÕÃop‡Õ                    ˇ  a        Ö      îŒ   ï      	        	 =     	 8      	  	        	  	 Ú     Œ€ﬂ‹œ  ¢          ˛            £      ±   j    ù   M    Ä  	  2     	 «       	       F   F F F    5     	
+ 	
+Ë   	‚	   7      v
+         	 8       	       v
+     	 7  ù   2  ù    ù   2 	   M    ∆     k           L 	˘   		 	˘   	 
+1   	 
+   É   :Ûˇ    D    ù   ›      	  ˛      Ö   Ê   2 	   M    Ö    V    ù    D    ›    ù          ¶   ›     v
+     »    6# Æ!    ù   "    ;$   Ö%     &–v≠‹›—Ã… !ﬂ“”‘'¯ë~ÄÆ}’·¨÷ª∫◊Ç.!"Éÿsò                                                                                   ˛                                                   ˛     ô      	  1    	 ©   ª   6 Ê   Ü    h   –    j	   ]       
+MïèŸ⁄P€ ◊É                   ¸ ÿ      	    »        õ   	     v     ‹›! ‡¢               ·            @	           ¡   	           	  Y   	  Ö   	  	 ©     ;   @ß”ﬁﬂÊ ˜                        ¯   	   g     @ +     	      	   Ä@  FˇF F F 	     @  
+    ¿   	       	    1   	  	 Ò   h   	 y        	 Ö    	      	  h   	 y        	  v   	 ∑   	  	 â     	       Ω;  @‡Ü·‚  Ä@ß„‰Â©Ê°¢”ÁËÈ!ÕÏ–wÒ                                                                                    Ú   	   	    9      	   9     Ñ     F F F   F F F F F µ      8ì3xÈÍ                       Í      	  1    Ê        ¶    ù   N    Ä      ¶   ›     á∫≠ª} ¢∏                   #      	    	   û    M    	  	 (    	    v     ÎÏ'ºÌ! ≈                       F       	     ∂       	  M    å     F F F F  «     ÓÔ'Õ{¡                  
+B      	    	   û    M    	  	 (    	    v     ÎÏ'ºÌ! ÷                       W       	     3       Ò Ê     g       	     3       Ò Ó     o   
+   | Ö    
+ 	   M   	        h   i 	   À    h     	  5      ì    À    7    	 Ω     h   	 $ 	   ‰      (êÄ  F   F  F F    ‰     ∂    	   M   å    F  F F F   «   	  		  	   M     (êÄ F     		   (   
+ 	   M     (êÄ F   	  	   À    h    h    Ú'–ÛÍ5Ùı  (êÄÓÔÕˆº|}~©˜                                                                                              *       ‰     	    ”    ‰     ‰     ı¯˜ ˛Ó        ˇ          +     	    ”    +     +     ˘˙˜ Ü˚        ˇ   á       H     ì     (    	        	   M   k     ü˚º¸˝'ë éÒ                   è        Ö        @    1  ·  @˛ˇÄ ôv          ö       
+   j    Ö   h      ÅvP †P         °       
+   j    Ö   j      Çv€ •€         ¶      f ã      ã          ã     ç     ç         ç    ±     ±         ±    °     °         °    â     â         â    ÿ     ÿ         ÿ    ˆ     ˆ         ˆ    ï     ï         ï   	    	     	         	     
+Œû—’„◊›ﬂ‚Â ™û                                                                          ´   f   Ü	A       @ $    $      0@       0@       0@       0@	       0@
+       0@	       0@
+    	   0@ 		   	
+   0@ 
+
+   
+   @t   t      0@       @    @$         @    @$   °       @$   8      @    @$   »       @$   g      @r      @{      @€   €         @€   [      @Ö   Ö      @      @C          @∫    Ô!      @Ï"      @Ø#      @o$      @ı%      @&      @
+'      @ ∫(       @!ƒ)     !   @"ﬁ*   !!"   @#ì+   ""#   @$¬,   ##$   0@&- '  $$H.   $%   @&V/   %%&   0@(0 )  &&H.   &'   @(¨1   '(   @)f2   ()   @*÷3   )*   @+∞4   *,   @-±5   ,+,Ò6   ,   @-,7   ,-   @.˝8   -.   @/#9   .0   @1±5   0/0ú:   0   @1˘;   01   @2:<   12   @3’=   23   @4O>   34   @5+?   46   @7±5   656%@   6   @7EA   68   @9±5   878ÍB   9   @:±5   989C   89   @:D   9:   @;E   :<   @=±5   <;<wF   =   @>±5   =<=SG   >   @?±5   >=>?H   >   @?üI   >?   0@AJ BK ??8L   ?@   0@BM CN @@8L   @A   0@CO D  AAH.   AB   0@DP E  BBH.   BC   0@EQ F  CCH.   CD   0@FR G  DDH.   DE   0@GS H  EEH.   EG   @H±5   GFG7T   G   0@IU J  GGH.   GH   0@JV K  HHH.   HI   0@KW L  IIH.   IJ   0@LX M  JJH.   JK   0@MY N  KKH.   KL   0@NZ LL+[   LN   @O±5   NMN¬\   O   @P±5   ONOÍ]   P   @Q±5   POP—^   Q   @R±5   QPQ≠_   R   @S±5   RQR`   S   @T±5   SRS¢a   Sõb   Tªc   Uƒd   Vÿe   W=f   Xﬁg   Y™h   Z   @[4i   Z[   @\–j   []5 ]] \   0@^k \\   \  \  5]     ^  ^]´l   ^  ^]m   ^  ^]«n   ^  ^]o   ^  ^]ùp   ^  ^]¶q   ^  ^]≈r   ^  ^]1s   ^  ^]Åt   ^  ^]3u   _7 __ ^X›v     ^  ^]w   ^  ^]Àx   	]1   ^   ^]iy   ^  ^]Yz   ^  ^]‰{   ^  ^]+|   ^  ^]Ö}   5^      ^]~   ^  ^]   ^  ^]Ä    ^Ç  Ñà_É ^  ^  ^]_Ñ   ^Ç  Ñà_É ^^]DÖ   ^Ç  Ñà_É ^^]Ü   ^Ç  Ñà_É ^^]á   ^Ç  Ñà_É ^^]∆à   ^Ç  Ñà_É ^^]ıâ   ^Ç  Ñà_É ^^] ä   ^Ç  Ñà_É ^^]ªã   ^Ç  Ñà_É ^^]cå   ^  ^]ç   ^Yíé   ^]è   ^Ç  Ñà_É ^^]`ê   5^      ^]¨ë   ^  ^]'í   \]Ak   ]®   ^  ^]Lì   ^  ^]î   ]]nï   @^ñ F  F  F  F ] F - F T F : F  F  F  F ? F @ ^]Ô!   @^ó ^]vò   @^ô ^]{ö   @^õ ^]^ú   @^ù F  F  F  ^]ìû   @^ü F  F  F  ^]9†   @^° F Z F  F O ^]'¢   @^£ F B F  F O ^]§   @^• F [ F  ^]ó¶   @^ß F  F  ^]Î®   @^© F  F  ^]â™   @^´ F  ^][¨   @^≠ F M ^]Æ   @^Ø ^]r∞   @^± F  ^]ó≤   @^≥ F 3 F L F  ^]≥¥   @^µ ^]∂   @^∑ F 3 F  F  F  F > F L F  ^]Ω∏   @^π F 3 F  F  F L F  ^]Q∫   @^ª ^]Hº   @^Ω F 5 F 6 F  ^]Úæ   @^ø F ; F  ^]¿   @^¡ F 5 F 6 F Z F  F  F  F M F P F  F Y F < F E F H F F ^]˚¬   @^√ F  F  ^]•ƒ   @^≈ F  ^] ∆   @^« F  F  F 7 F H F = F X F  F 8 F  ^]2»   @^… ^]Å    @^À F  ^]KÃ   @^Õ ^]ÃŒ   @^œ F & F  ^]»–   @^— F  ^](“   @^” ^]‘   @^’ ^]«÷   @^◊ F M ^]}ÿ   @^Ÿ F P F  ^](⁄   @^€ F  F  F M F Y F U F ' F " F  ^]Ñ‹   @^› F  ^]°ﬁ   @^ﬂ ^]0‡   @^· ^]÷‚   @^„ F $ F 2 F  F 4 F  ^]D‰   @^Â F  F 2 F + F $ F  F 3 F  F  F 9 F C F * F M F Y F K F  F W F / F ( F # F 0 F ) F 1 F  F % ^]©Ê   ^  _) F  F^ˇF  F  _]âÁ   @_Ë _]ùÈ   @_Í F  F  _]iÎ   @_Ï F 
+ _]∆Ì   @_Ó @`Ô F 
+ @a F 
+ a]ÊÒ   @aÚ @bÛ F K F  b]Ù   @bı F K F 
+ b];ˆ   @b˜ F K b]ˆ¯   @b˘ F  b]˙   @b˚ F  b] ¸   @b˝ F  b]–˛   @bˇ F  F L F   F  F ! b]g   @bF  F L F K b]ó  @bF  F  F  F  F  F  F  F  b]Z  @bF . F  b]@  @bF  b]2  @b	F R F  b]
+  @bF S F  F - F  b]∑  @bb]6  @bF 7 F X F  F  F 3 F  b]Ú  @bF  F  b];  @bF , F J b]h  @bF I F G F  F V F  F N F  F  F  b]À  @bF  b]Ê  @bF  F  F I F G F  F Q F  F F F D F A b]  @bF 
+ b]∂  @bF 
+ b]ì  @bF  b]3   @b!b]j"  @b#b]h$  @b%b]j&  @b'F % b](  b]Ô!   cl)  cd   e bb]   ^  ] ™É   @¸;  0@rßÑÖΩÜ
+áà  @âäãåçéèêëíìîïñòóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœÜ–—“”‘’÷◊ÿŸ⁄€‹›ﬁÑëˇz≠∫ÊïÁ◊ﬂ‹îﬂı˘-/ ÑàÍÆöû†|ªÈãû*Ôxıw‡!#%	58?CDLOQln:ÖÜìùü £"¨$¬%À(Õ/Â0Ë2Ó3∂4∑5˘6∫7∞8¥9º<ì=ñ>ò?ô@óMÊÏQÌRÙS¯TUVÇWXáYåZÛ\∏^ê_ícÒd†i‰kπmªnøqÕrŒt uÉv¢yÍz∏Ä˜ÅÓÇ˚ÉÒÑvÖPÜ€áû·L	 "$%(/023456789<=>?@MPQRSTUVWXYZ\^_cdikmnqrtuvyzÄÅÇÉÑÖÜá                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 B                                                                               "                       	                                                                                	                              /           
+               	                       ,                                                  5                               *                                                                                                                        ]                                  	                                               ]                          	                                                                   
+                                                                             F               
+                                                                                                                                                                T                                                                             	                                                                                                                           	                               a                                                                  A                                                                                4                                              ?                   	                   	                                               9                                                                  U                                                                                             .                            ˝ˇˇˇ                à

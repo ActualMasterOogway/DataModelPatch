@@ -1,0 +1,1 @@
+return game:GetEngineFeature("EnableGameJoinContext") and game:DefineFastFlag("AXPassGameJoinContext", false);

@@ -1,0 +1,1 @@
+return game:DefineFastFlag("ContentFeedPinchToZoomEnabled_v4", false);

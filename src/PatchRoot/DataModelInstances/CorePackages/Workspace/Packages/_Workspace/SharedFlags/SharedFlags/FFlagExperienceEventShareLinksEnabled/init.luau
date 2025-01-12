@@ -1,0 +1,1 @@
+return require(script.Parent.FFlagAXPassGameJoinContext) and game:DefineFastFlag("ExperienceEventShareLinksEnabled2", false);

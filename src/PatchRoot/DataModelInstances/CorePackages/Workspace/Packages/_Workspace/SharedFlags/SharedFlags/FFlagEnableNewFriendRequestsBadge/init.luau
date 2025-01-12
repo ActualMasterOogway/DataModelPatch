@@ -1,0 +1,2 @@
+local v0 = require(script.Parent.FFlagAddNewFriendRequestsNetworking);
+return require(script.Parent.FFlagMigrateFriendsLandingHttpRequestToRequestInternal) and v0 and game:DefineFastFlag("EnableNewFriendRequestsBadge5", false);

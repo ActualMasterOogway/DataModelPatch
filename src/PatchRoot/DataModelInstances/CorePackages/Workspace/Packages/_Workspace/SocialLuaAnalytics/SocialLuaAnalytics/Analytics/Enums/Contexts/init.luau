@@ -1,0 +1,33 @@
+local l_Parent_0 = script:FindFirstAncestor("SocialLuaAnalytics").Parent;
+local l_FFlagAddFriendsMigrateAnalytics_0 = require(l_Parent_0.SharedFlags).FFlagAddFriendsMigrateAnalytics;
+return {
+    Captures = "screenshots", 
+    Chat = "chat", 
+    ContactImport = "contactImport", 
+    ContactList = "contactList", 
+    CustomizeName = "customizeName", 
+    EditProfile = "editProfile", 
+    FriendsLanding = "friendsLanding", 
+    GameDetails = "gameDetails", 
+    HomePage = "homepage", 
+    MorePage = "morepage", 
+    PartyVoice = "partyVoice", 
+    PeopleSearchFromAddFriends = if l_FFlagAddFriendsMigrateAnalytics_0 then nil else "peopleSearchfromAddFriends", 
+    PlayerProfile = "playerProfile", 
+    Players = "players", 
+    PlayerSearch = "playerSearch", 
+    PresenceIndicator = "presenceIndicator", 
+    ProfileCard = "profileCard", 
+    ProfileQRCode = "profileQRCode", 
+    PlatformChat = "platformChat", 
+    ShareLinks = "shareLinks", 
+    SocialContentEntrypoints = "socialContentEntrypoints", 
+    SocialContentFeed = "socialContentFeed", 
+    SocialContentPosting = "socialContentPosting", 
+    SocialTab = "SocialTab", 
+    Squads = "squads", 
+    ContactsToast = "ContactsToast", 
+    SetNicknameModal = "SetNicknameModal", 
+    AddFriends = "addUniversalFriends", 
+    FriendRequests = if l_FFlagAddFriendsMigrateAnalytics_0 then nil else "friendRequestsPage"
+};

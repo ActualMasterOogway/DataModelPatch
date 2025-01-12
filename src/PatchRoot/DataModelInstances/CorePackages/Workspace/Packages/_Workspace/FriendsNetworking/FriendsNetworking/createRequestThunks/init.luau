@@ -1,0 +1,59 @@
+local l_Parent_0 = script:FindFirstAncestor("FriendsNetworking").Parent;
+local _ = require(script.Parent.networkingFriendsTypes);
+local l_networkRequests_0 = script.Parent.networkRequests;
+local l_FFlagAddNewFriendRequestsNetworking_0 = require(l_Parent_0.SharedFlags).FFlagAddNewFriendRequestsNetworking;
+local v4 = require(l_networkRequests_0.createGetFriendsFromUserId);
+local v5 = require(l_networkRequests_0.createFindFriendsFromUserId);
+local v6 = require(l_networkRequests_0.createSearchFriendsByQuery);
+local v7 = require(l_networkRequests_0.createGetFriendRequestsCount);
+local v8 = require(l_networkRequests_0.createGetNewFriendRequestsCount);
+local v9 = require(l_networkRequests_0.createUnfriendTargetUserId);
+local v10 = require(l_networkRequests_0.createGetFriendRequests);
+local v11 = require(l_networkRequests_0.createAcceptFriendRequestFromUserId);
+local v12 = require(l_networkRequests_0.createDeclineFriendRequestFromUserId);
+local v13 = require(l_networkRequests_0.createDeclineAllFriendRequests);
+local v14 = require(l_networkRequests_0.createClearNewFriendRequests);
+local v15 = require(l_networkRequests_0.createGetFriendsCountFromUserId);
+local v16 = require(l_networkRequests_0.createGetInactiveFriends);
+local v17 = require(l_networkRequests_0.createRequestFriendshipFromUserId);
+local v18 = require(l_networkRequests_0.createRequestFriendshipFromContactId);
+local v19 = require(l_networkRequests_0.createGetFollowingExists);
+local v20 = require(l_networkRequests_0.createGetUserFollowers);
+local v21 = require(l_networkRequests_0.createGetFriendRecommendationsFromUserId);
+local v22 = require(l_networkRequests_0.createGetFriendshipStatus);
+local v23 = require(l_networkRequests_0.createGetFriendshipStatuses);
+local v24 = require(l_networkRequests_0.createGetExtendedFriendshipStatus);
+local v25 = require(l_networkRequests_0.createAcceptFriendRequestWithToken);
+local v26 = require(l_networkRequests_0.createGetFollowersCount);
+local v27 = require(l_networkRequests_0.createGetFollowingsCount);
+local v28 = require(l_networkRequests_0.createValidateFriendRequestNickname);
+return function(v29) --[[ Line: 40 ]]
+    -- upvalues: v4 (copy), v5 (copy), v6 (copy), v7 (copy), l_FFlagAddNewFriendRequestsNetworking_0 (copy), v8 (copy), v9 (copy), v10 (copy), v11 (copy), v12 (copy), v13 (copy), v14 (copy), v15 (copy), v16 (copy), v17 (copy), v18 (copy), v19 (copy), v20 (copy), v21 (copy), v22 (copy), v23 (copy), v24 (copy), v25 (copy), v26 (copy), v27 (copy), v28 (copy)
+    return {
+        GetFriendsFromUserId = v4(v29), 
+        FindFriendsFromUserId = v5(v29), 
+        SearchFriendsByQuery = v6(v29), 
+        GetFriendRequestsCount = v7(v29), 
+        GetNewFriendRequestsCount = if l_FFlagAddNewFriendRequestsNetworking_0 then v8(v29) else nil, 
+        UnfriendTargetUserId = v9(v29), 
+        GetFriendRequests = v10(v29), 
+        AcceptFriendRequestFromUserId = v11(v29), 
+        DeclineFriendRequestFromUserId = v12(v29), 
+        DeclineAllFriendRequests = v13(v29), 
+        ClearNewFriendRequests = if l_FFlagAddNewFriendRequestsNetworking_0 then v14(v29) else nil, 
+        GetFriendsCountFromUserId = v15(v29), 
+        GetInactiveFriends = v16(v29), 
+        RequestFriendshipFromUserId = v17(v29), 
+        RequestFriendshipFromContactId = v18(v29), 
+        GetFollowingExists = v19(v29), 
+        GetUserFollowers = v20(v29), 
+        GetFriendRecommendationsFromUserId = v21(v29), 
+        GetFriendshipStatus = v22(v29), 
+        GetFriendshipStatuses = v23(v29), 
+        GetExtendedFriendshipStatus = v24(v29), 
+        AcceptFriendRequestWithToken = v25(v29), 
+        GetFollowersCount = v26(v29), 
+        GetFollowingsCount = v27(v29), 
+        ValidateFriendRequestNickname = v28(v29)
+    };
+end;

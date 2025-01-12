@@ -1,0 +1,533 @@
+¡application/andrew-insetezapplication/applixwareawapplication/atom+xmlatomapplication/atomcat+xmlatomcatapplication/atomsvc+xmlatomsvcapplication/ccxml+xmlccxmlapplication/cdmi-capabilitycdmiaapplication/cdmi-containercdmicapplication/cdmi-domaincdmidapplication/cdmi-objectcdmioapplication/cdmi-queuecdmiqapplication/cu-seemecuapplication/davmount+xmldavmountapplication/docbook+xmldbkapplication/dssc+derdsscapplication/dssc+xmlxdsscapplication/ecmascriptecma .comment+xmlcomment+xml .deviceinfo+xmldeviceinfo+xml .providerinfo+xmlproviderinfo+xml .serviceinfo+xmlserviceinfo+xml .subscriberinfo+xmlsubscriberinfo+xmlapplication/emma+xmlemmaapplication/epub+zipepubapplication/exiexiapplication/font-tdpfrpfrapplication/gml+xmlgmlapplication/gpx+xmlgpxapplication/gxfgxfapplication/hyperstudiostk .cmdcmd .objobj
+ .responseresponse .vndvndapplication/inkml+xmlinkinkmlapplication/ipfixipfixapplication/java-archivejar"application/java-serialized-objectserapplication/java-vmclassapplication/javascriptjsapplication/jsonjsonapplication/jsonml+jsonjsonmlapplication/lost+xmllostxmlapplication/mac-binhex40hqxapplication/mac-compactprocptapplication/mads+xmlmadsapplication/marcmrcapplication/marcxml+xmlmrcxapplication/mathematicamanbmbapplication/mathml+xmlmathmlapplication/mboxmbox"application/mediaservercontrol+xmlmscmlapplication/metalink+xmlmetalinkapplication/metalink4+xmlmeta4application/mets+xmlmetsapplication/mods+xmlmodsapplication/mp21m21mp21application/mp4mp4sapplication/msworddocdotapplication/mxfmxfapplication/octet-streambindmslrfmarsodistdistzpkgbpkdumpelcdeployapplication/odaodaapplication/oebps-package+xmlopfapplication/oggogxapplication/omdoc+xmlomdocapplication/onenoteonetoconetoc2onetmponepkgapplication/oxpsoxpsapplication/patch-ops-error+xmlxerapplication/pdfpdfapplication/pgp-encryptedpgpapplication/pgp-signatureascsigapplication/pics-rulesprfapplication/pkcs10p10application/pkcs7-mimep7mp7capplication/pkcs7-signaturep7sapplication/pkcs8p8application/pkix-attr-certacapplication/pkix-certcerapplication/pkix-crlcrlapplication/pkix-pkipathpkipathapplication/pkixcmppkiapplication/pls+xmlplsapplication/postscriptaiepsps .alvestrand.titrax-sheetalvestrand.titrax-sheetapplication/prs.cwwcww
+ .hpub+ziphpub+zip .nprendnprend	 .pluckerplucker .rdf-xml-cryptrdf-xml-crypt	 .xsf+xmlxsf+xmlapplication/pskc+xmlpskcxmlapplication/rdf+xmlrdfapplication/reginfo+xmlrif#application/relax-ng-compact-syntaxrncapplication/resource-lists+xmlrl#application/resource-lists-diff+xmlrldapplication/rls-services+xmlrsapplication/rpki-ghostbustersgbrapplication/rpki-manifestmftapplication/rpki-roaroaapplication/rsd+xmlrsdapplication/rss+xmlrssapplication/rtfrtfapplication/sbml+xmlsbmlapplication/scvp-cv-requestscqapplication/scvp-cv-responsescsapplication/scvp-vp-requestspqapplication/scvp-vp-responsesppapplication/sdpsdp"application/set-payment-initiationsetpay'application/set-registration-initiationsetregapplication/shf+xmlshfapplication/smil+xmlsmismilapplication/sparql-queryrqapplication/sparql-results+xmlsrxapplication/srgsgramapplication/srgs+xmlgrxmlapplication/sru+xmlsruapplication/ssdl+xmlssdlapplication/ssml+xmlssmlapplication/tei+xmltei	teicorpusapplication/thraud+xmltfiapplication/timestamped-datatsd .scriptfile
+scriptfile .3gpp-prose+xml3gpp-prose+xml .3gpp-prose-pc3ch+xml3gpp-prose-pc3ch+xml! .3gpp.access-transfer-events+xml3gpp.access-transfer-events+xml .3gpp.bsf+xml3gpp.bsf+xml .3gpp.mid-call+xml3gpp.mid-call+xml!application/vnd.3gpp.pic-bw-largeplb!application/vnd.3gpp.pic-bw-smallpsbapplication/vnd.3gpp.pic-bw-varpvb
+ .3gpp.sms3gpp.sms .3gpp.sms+xml3gpp.sms+xml .3gpp.srvcc-ext+xml3gpp.srvcc-ext+xml .3gpp.srvcc-info+xml3gpp.srvcc-info+xml .3gpp.state-and-event-info+xml3gpp.state-and-event-info+xml .3gpp.ussd+xml3gpp.ussd+xml .3gpp2.bcmcsinfo+xml3gpp2.bcmcsinfo+xml .3gpp2.sms	3gpp2.smsapplication/vnd.3gpp2.tcaptcap .3lightssoftware.imagescal3lightssoftware.imagescal application/vnd.3m.post-it-notespwn!application/vnd.accpac.simply.asoaso!application/vnd.accpac.simply.impimpapplication/vnd.acucobolacuapplication/vnd.acucorpatcacutc;application/vnd.adobe.air-application-installer-package+zipair .adobe.flash.movieadobe.flash.movie'application/vnd.adobe.formscentral.fcdtfcdtapplication/vnd.adobe.fxpfxpfxpl .adobe.partial-uploadadobe.partial-uploadapplication/vnd.adobe.xdp+xmlxdpapplication/vnd.adobe.xfdfxfdf .aether.imp
+aether.imp .ah-barcode
+ah-barcodeapplication/vnd.ahead.spaceahead%application/vnd.airzip.filesecure.azfazf%application/vnd.airzip.filesecure.azsazsapplication/vnd.amazon.ebookazw .amazon.mobi8-ebookamazon.mobi8-ebook$application/vnd.americandynamics.accaccapplication/vnd.amiga.amiami .amundsen.maze+xmlamundsen.maze+xml'application/vnd.android.package-archiveapk .ankianki6application/vnd.anser-web-certificate-issue-initiationcii3application/vnd.anser-web-funds-transfer-initiationfti$application/vnd.antix.game-componentatx .apache.thrift.binaryapache.thrift.binary .apache.thrift.compactapache.thrift.compact .apache.thrift.jsonapache.thrift.json
+ .api+jsonapi+json#application/vnd.apple.installer+xmlmpkgapplication/vnd.apple.mpegurlm3u8 .arastra.swiarastra.swi"application/vnd.aristanetworks.swiswi .artsquare	artsquare%application/vnd.astraea-software.iotaiotaapplication/vnd.audiographaep .autopackageautopackage .avistar+xmlavistar+xml .balsamiq.bmml+xmlbalsamiq.bmml+xml .balsamiq.bmprbalsamiq.bmpr .bekitzur-stech+jsonbekitzur-stech+json .biopax.rdf+xmlbiopax.rdf+xml!application/vnd.blueice.multipassmpm .bluetooth.ep.oobbluetooth.ep.oob .bluetooth.le.oobbluetooth.le.oobapplication/vnd.bmibmiapplication/vnd.businessobjectsrep .cab-jscriptcab-jscript .canon-cpdl
+canon-cpdl .canon-lips
+canon-lips .cendio.thinlinc.clientconfcendio.thinlinc.clientconf .century-systems.tcp_streamcentury-systems.tcp_streamapplication/vnd.chemdraw+xmlcdxml .chess-pgn	chess-pgn$application/vnd.chipnuts.karaoke-mmdmmdapplication/vnd.cinderellacdy .cirpack.isdn-extcirpack.isdn-ext .citationstyles.style+xmlcitationstyles.style+xmlapplication/vnd.claymoreclaapplication/vnd.cloanto.rp9rp9application/vnd.clonk.c4groupc4gc4dc4fc4pc4u,application/vnd.cluetrust.cartomobile-configc11amc0application/vnd.cluetrust.cartomobile-config-pkgc11amz .coffeescriptcoffeescript .collection+jsoncollection+json .collection.doc+jsoncollection.doc+json .collection.next+jsoncollection.next+json .comicbook+zipcomicbook+zip .commerce-battellecommerce-battelleapplication/vnd.commonspacecspapplication/vnd.contact.cmsgcdbcmsg .coreos.ignition+jsoncoreos.ignition+jsonapplication/vnd.cosmocallercmcapplication/vnd.crick.clickerclkx&application/vnd.crick.clicker.keyboardclkk%application/vnd.crick.clicker.paletteclkp&application/vnd.crick.clicker.templateclkt&application/vnd.crick.clicker.wordbankclkw%application/vnd.criticaltools.wbs+xmlwbsapplication/vnd.ctc-posmlpml .ctct.ws+xmlctct.ws+xml
+ .cups-pdfcups-pdf .cups-postscriptcups-postscriptapplication/vnd.cups-ppdppd .cups-rastercups-raster
+ .cups-rawcups-raw .curlcurlapplication/vnd.curl.carcarapplication/vnd.curl.pcurlpcurl .cyan.dean.root+xmlcyan.dean.root+xml .cybankcybankapplication/vnd.dartdartapplication/vnd.data-vision.rdzrdz .debian.binary-packagedebian.binary-packageapplication/vnd.dece.datauvfuvvfuvduvvdapplication/vnd.dece.ttml+xmluvtuvvt application/vnd.dece.unspecifieduvxuvvxapplication/vnd.dece.zipuvzuvvz&application/vnd.denovo.fcselayout-link	fe_launch .desmume.moviedesmume.movie .dir-bi.plate-dl-nosuffixdir-bi.plate-dl-nosuffix .dm.delegation+xmldm.delegation+xmlapplication/vnd.dnadna .document+jsondocument+jsonapplication/vnd.dolby.mlpmlp .dolby.mobile.1dolby.mobile.1 .dolby.mobile.2dolby.mobile.2$ .doremir.scorecloud-binary-document"doremir.scorecloud-binary-documentapplication/vnd.dpgraphdpgapplication/vnd.dreamfactorydfac .drive+json
+drive+jsonapplication/vnd.ds-keypointkpxx .dtg.local	dtg.local .dtg.local.flashdtg.local.flash .dtg.local.htmldtg.local.htmlapplication/vnd.dvb.aitait
+ .dvb.dvbjdvb.dvbj .dvb.esgcontainerdvb.esgcontainer .dvb.ipdcdftnotifaccessdvb.ipdcdftnotifaccess .dvb.ipdcesgaccessdvb.ipdcesgaccess .dvb.ipdcesgaccess2dvb.ipdcesgaccess2 .dvb.ipdcesgpdddvb.ipdcesgpdd .dvb.ipdcroamingdvb.ipdcroaming .dvb.iptv.alfec-basedvb.iptv.alfec-base .dvb.iptv.alfec-enhancementdvb.iptv.alfec-enhancement .dvb.notif-aggregate-root+xmldvb.notif-aggregate-root+xml .dvb.notif-container+xmldvb.notif-container+xml .dvb.notif-generic+xmldvb.notif-generic+xml .dvb.notif-ia-msglist+xmldvb.notif-ia-msglist+xml' .dvb.notif-ia-registration-request+xml%dvb.notif-ia-registration-request+xml( .dvb.notif-ia-registration-response+xml&dvb.notif-ia-registration-response+xml .dvb.notif-init+xmldvb.notif-init+xml	 .dvb.pfrdvb.pfrapplication/vnd.dvb.servicesvc .dxrdxrapplication/vnd.dynageogeo .dzrdzr .easykaraoke.cdgdownloadeasykaraoke.cdgdownload .ecdis-updateecdis-updateapplication/vnd.ecowin.chartmag .ecowin.filerequestecowin.filerequest .ecowin.fileupdateecowin.fileupdate .ecowin.seriesecowin.series .ecowin.seriesrequestecowin.seriesrequest .ecowin.seriesupdateecowin.seriesupdate .emclient.accessrequest+xmlemclient.accessrequest+xmlapplication/vnd.enlivennml .enphase.envoyenphase.envoy .eprints.data+xmleprints.data+xmlapplication/vnd.epson.esfesfapplication/vnd.epson.msfmsf application/vnd.epson.quickanimeqamapplication/vnd.epson.saltsltapplication/vnd.epson.ssfssf .ericsson.quickcallericsson.quickcallapplication/vnd.eszigno3+xmles3et3 .etsi.aoc+xmletsi.aoc+xml .etsi.asic-e+zipetsi.asic-e+zip .etsi.asic-s+zipetsi.asic-s+zip .etsi.cug+xmletsi.cug+xml .etsi.iptvcommand+xmletsi.iptvcommand+xml .etsi.iptvdiscovery+xmletsi.iptvdiscovery+xml .etsi.iptvprofile+xmletsi.iptvprofile+xml .etsi.iptvsad-bc+xmletsi.iptvsad-bc+xml .etsi.iptvsad-cod+xmletsi.iptvsad-cod+xml .etsi.iptvsad-npvr+xmletsi.iptvsad-npvr+xml .etsi.iptvservice+xmletsi.iptvservice+xml .etsi.iptvsync+xmletsi.iptvsync+xml .etsi.iptvueprofile+xmletsi.iptvueprofile+xml .etsi.mcid+xmletsi.mcid+xml .etsi.mheg5
+etsi.mheg5* .etsi.overload-control-policy-dataset+xml(etsi.overload-control-policy-dataset+xml .etsi.pstn+xmletsi.pstn+xml .etsi.sci+xmletsi.sci+xml .etsi.simservs+xmletsi.simservs+xml .etsi.timestamp-tokenetsi.timestamp-token .etsi.tsl+xmletsi.tsl+xml .etsi.tsl.deretsi.tsl.der .eudora.dataeudora.dataapplication/vnd.ezpix-albumez2application/vnd.ezpix-packageez3 .f-secure.mobilef-secure.mobile .fastcopy-disk-imagefastcopy-disk-imageapplication/vnd.fdffdfapplication/vnd.fdsn.mseedmseedapplication/vnd.fdsn.seedseeddataless .ffsnsffsns .filmit.zfc
+filmit.zfc .fintsfints .firemonkeys.cloudcellfiremonkeys.cloudcellapplication/vnd.flographitgphapplication/vnd.fluxtime.clipftc .font-fontforge-sfdfont-fontforge-sfdapplication/vnd.framemakerfmframemakerbookapplication/vnd.frogans.fncfncapplication/vnd.frogans.ltfltfapplication/vnd.fsc.weblaunchfscapplication/vnd.fujitsu.oasysoasapplication/vnd.fujitsu.oasys2oa2application/vnd.fujitsu.oasys3oa3application/vnd.fujitsu.oasysgpfg5 application/vnd.fujitsu.oasysprsbh2 .fujixerox.art-exfujixerox.art-ex .fujixerox.art4fujixerox.art4application/vnd.fujixerox.dddddd#application/vnd.fujixerox.docuworksxdw*application/vnd.fujixerox.docuworks.binderxbd .fujixerox.docuworks.containerfujixerox.docuworks.container .fujixerox.hbplfujixerox.hbpl .fut-misnet
+fut-misnetapplication/vnd.fuzzysheetfzs application/vnd.genomatix.tuxedotxd
+ .geo+jsongeo+json .geocube+xmlgeocube+xmlapplication/vnd.geogebra.fileggbapplication/vnd.geogebra.toolggt!application/vnd.geometry-explorergexgreapplication/vnd.geonextgxtapplication/vnd.geoplang2wapplication/vnd.geospaceg3w .gerbergerber! .globalplatform.card-content-mgtglobalplatform.card-content-mgt* .globalplatform.card-content-mgt-response(globalplatform.card-content-mgt-responseapplication/vnd.gmxgmx$application/vnd.google-earth.kml+xmlkml application/vnd.google-earth.kmzkmz .gov.sk.e-form+xmlgov.sk.e-form+xml .gov.sk.e-form+zipgov.sk.e-form+zip .gov.sk.xmldatacontainer+xmlgov.sk.xmldatacontainer+xmlapplication/vnd.grafeqgqfgqs .gridmpgridmpapplication/vnd.groove-accountgacapplication/vnd.groove-helpghf'application/vnd.groove-identity-messagegimapplication/vnd.groove-injectorgrv#application/vnd.groove-tool-messagegtm$application/vnd.groove-tool-templatetplapplication/vnd.groove-vcardvcg
+ .hal+jsonhal+jsonapplication/vnd.hal+xmlhal*application/vnd.handheld-entertainment+xmlzmmapplication/vnd.hbcihbci .hcl-bireportshcl-bireports .hdthdt .heroku+jsonheroku+json!application/vnd.hhe.lesson-playerlesapplication/vnd.hp-hpglhpglapplication/vnd.hp-hpidhpidapplication/vnd.hp-hpshpsapplication/vnd.hp-jlytjltapplication/vnd.hp-pclpclapplication/vnd.hp-pclxlpclxl
+ .httphonehttphone$application/vnd.hydrostatix.sof-data	sfd-hdstx .hyperdrive+jsonhyperdrive+json .hzn-3d-crosswordhzn-3d-crossword .ibm.afplinedataibm.afplinedata .ibm.electronic-mediaibm.electronic-mediaapplication/vnd.ibm.minipaympyapplication/vnd.ibm.modcapafplistafplist3820%application/vnd.ibm.rights-managementirm$application/vnd.ibm.secure-containerscapplication/vnd.iccprofileiccicm .ieee.1905	ieee.1905application/vnd.igloaderiglapplication/vnd.immervision-ivpivpapplication/vnd.immervision-ivuivu .ims.imsccv1p1ims.imsccv1p1 .ims.imsccv1p2ims.imsccv1p2 .ims.imsccv1p3ims.imsccv1p3 .ims.lis.v2.result+jsonims.lis.v2.result+json% .ims.lti.v2.toolconsumerprofile+json#ims.lti.v2.toolconsumerprofile+json .ims.lti.v2.toolproxy+jsonims.lti.v2.toolproxy+json .ims.lti.v2.toolproxy.id+jsonims.lti.v2.toolproxy.id+json .ims.lti.v2.toolsettings+jsonims.lti.v2.toolsettings+json% .ims.lti.v2.toolsettings.simple+json#ims.lti.v2.toolsettings.simple+json .informedcontrol.rms+xmlinformedcontrol.rms+xml .informix-visionaryinformix-visionary .infotech.projectinfotech.project .infotech.project+xmlinfotech.project+xml .innopath.wamp.notificationinnopath.wamp.notificationapplication/vnd.insors.igmigm application/vnd.intercon.formnetxpwxpxapplication/vnd.intergeoi2g .intertrust.digiboxintertrust.digibox .intertrust.nncpintertrust.nncpapplication/vnd.intu.qboqboapplication/vnd.intu.qfxqfx .iptc.g2.catalogitem+xmliptc.g2.catalogitem+xml .iptc.g2.conceptitem+xmliptc.g2.conceptitem+xml .iptc.g2.knowledgeitem+xmliptc.g2.knowledgeitem+xml .iptc.g2.newsitem+xmliptc.g2.newsitem+xml .iptc.g2.newsmessage+xmliptc.g2.newsmessage+xml .iptc.g2.packageitem+xmliptc.g2.packageitem+xml .iptc.g2.planningitem+xmliptc.g2.planningitem+xml%application/vnd.ipunplugged.rcprofile	rcprofile'application/vnd.irepository.package+xmlirpapplication/vnd.is-xprxprapplication/vnd.isac.fcsfcsapplication/vnd.jamjam .japannet-directory-servicejapannet-directory-service .japannet-jpnstore-wakeupjapannet-jpnstore-wakeup .japannet-payment-wakeupjapannet-payment-wakeup .japannet-registrationjapannet-registration .japannet-registration-wakeupjapannet-registration-wakeup .japannet-setstore-wakeupjapannet-setstore-wakeup .japannet-verificationjapannet-verification .japannet-verification-wakeupjapannet-verification-wakeup%application/vnd.jcp.javame.midlet-rmsrmsapplication/vnd.jispjisp"application/vnd.joost.joda-archivejoda .jsk.isdn-ngnjsk.isdn-ngnapplication/vnd.kahootzktzktrapplication/vnd.kde.karbonkarbonapplication/vnd.kde.kchartchrtapplication/vnd.kde.kformulakfoapplication/vnd.kde.kivioflwapplication/vnd.kde.kontourkonapplication/vnd.kde.kpresenterkprkptapplication/vnd.kde.kspreadkspapplication/vnd.kde.kwordkwdkwtapplication/vnd.kenameaapphtkeapplication/vnd.kidspirationkiaapplication/vnd.kinarkneknpapplication/vnd.koanskpskdsktskm application/vnd.kodak-descriptorsseapplication/vnd.las.las+xmllasxml .liberty-request+xmlliberty-request+xml2application/vnd.llamagraphics.life-balance.desktoplbd7application/vnd.llamagraphics.life-balance.exchange+xmllbeapplication/vnd.lotus-1-2-3123application/vnd.lotus-approachaprapplication/vnd.lotus-freelancepreapplication/vnd.lotus-notesnsfapplication/vnd.lotus-organizerorgapplication/vnd.lotus-screencamscmapplication/vnd.lotus-wordprolwp application/vnd.macports.portpkgportpkg .mapbox-vector-tilemapbox-vector-tile .marlin.drm.actiontoken+xmlmarlin.drm.actiontoken+xml .marlin.drm.conftoken+xmlmarlin.drm.conftoken+xml .marlin.drm.license+xmlmarlin.drm.license+xml .marlin.drm.mdcfmarlin.drm.mdcf .mason+json
+mason+json .maxmind.maxmind-dbmaxmind.maxmind-dbapplication/vnd.mcdmcdapplication/vnd.medcalcdatamc1"application/vnd.mediastation.cdkeycdkey .meridian-slingshotmeridian-slingshotapplication/vnd.mfermwfapplication/vnd.mfmpmfm .micro+json
+micro+jsonapplication/vnd.micrografx.flofloapplication/vnd.micrografx.igxigx .microsoft.portable-executablemicrosoft.portable-executable .miele+json
+miele+jsonapplication/vnd.mifmif .minisoft-hp3000-saveminisoft-hp3000-save! .mitsubishi.misty-guard.trustwebmitsubishi.misty-guard.trustwebapplication/vnd.mobius.dafdafapplication/vnd.mobius.disdisapplication/vnd.mobius.mbkmbkapplication/vnd.mobius.mqymqyapplication/vnd.mobius.mslmslapplication/vnd.mobius.plcplcapplication/vnd.mobius.txftxf"application/vnd.mophun.applicationmpn"application/vnd.mophun.certificatempc .motorola.flexsuitemotorola.flexsuite .motorola.flexsuite.adsimotorola.flexsuite.adsi .motorola.flexsuite.fismotorola.flexsuite.fis .motorola.flexsuite.gotapmotorola.flexsuite.gotap .motorola.flexsuite.kmrmotorola.flexsuite.kmr .motorola.flexsuite.ttcmotorola.flexsuite.ttc .motorola.flexsuite.wemmotorola.flexsuite.wem .motorola.iprmmotorola.iprmapplication/vnd.mozilla.xul+xmlxul .ms-3mfdocumentms-3mfdocumentapplication/vnd.ms-artgalrycil .ms-asfms-asf!application/vnd.ms-cab-compressedcab .ms-color.iccprofilems-color.iccprofileapplication/vnd.ms-excelxlsxlmxlaxlcxltxlw.application/vnd.ms-excel.addin.macroenabled.12xlam5application/vnd.ms-excel.sheet.binary.macroenabled.12xlsb.application/vnd.ms-excel.sheet.macroenabled.12xlsm1application/vnd.ms-excel.template.macroenabled.12xltmapplication/vnd.ms-fontobjecteotapplication/vnd.ms-htmlhelpchmapplication/vnd.ms-imsimsapplication/vnd.ms-lrmlrm .ms-office.activex+xmlms-office.activex+xmlapplication/vnd.ms-officethemethmx .ms-opentypems-opentype  .ms-package.obfuscated-opentypems-package.obfuscated-opentypeapplication/vnd.ms-pki.seccatcatapplication/vnd.ms-pki.stlstl .ms-playready.initiator+xmlms-playready.initiator+xmlapplication/vnd.ms-powerpointpptppspot3application/vnd.ms-powerpoint.addin.macroenabled.12ppam:application/vnd.ms-powerpoint.presentation.macroenabled.12pptm3application/vnd.ms-powerpoint.slide.macroenabled.12sldm7application/vnd.ms-powerpoint.slideshow.macroenabled.12ppsm6application/vnd.ms-powerpoint.template.macroenabled.12potm  .ms-printdevicecapabilities+xmlms-printdevicecapabilities+xml .ms-printing.printticket+xmlms-printing.printticket+xml .ms-printschematicket+xmlms-printschematicket+xmlapplication/vnd.ms-projectmppmpt	 .ms-tnefms-tnef .ms-windows.devicepairingms-windows.devicepairing .ms-windows.nwprinting.oobms-windows.nwprinting.oob .ms-windows.printerpairingms-windows.printerpairing .ms-windows.wsd.oobms-windows.wsd.oob .ms-wmdrm.lic-chlg-reqms-wmdrm.lic-chlg-req .ms-wmdrm.lic-respms-wmdrm.lic-resp .ms-wmdrm.meter-chlg-reqms-wmdrm.meter-chlg-req .ms-wmdrm.meter-respms-wmdrm.meter-resp0application/vnd.ms-word.document.macroenabled.12docm0application/vnd.ms-word.template.macroenabled.12dotmapplication/vnd.ms-workswpswkswcmwdbapplication/vnd.ms-wplwplapplication/vnd.ms-xpsdocumentxps .msa-disk-imagemsa-disk-imageapplication/vnd.mseqmseq .msignmsign .multiad.creatormultiad.creator .multiad.creator.cifmultiad.creator.cif .music-niff
+music-niffapplication/vnd.musicianmusapplication/vnd.muvee.stylemstyapplication/vnd.mynfctaglet .ncd.controlncd.control .ncd.referencencd.reference	 .nervananervana .netfpxnetfpx!application/vnd.neurolanguage.nlunlu .nintendo.nitro.romnintendo.nitro.rom .nintendo.snes.romnintendo.snes.romapplication/vnd.nitfntfnitf"application/vnd.noblenet-directorynndapplication/vnd.noblenet-sealernnsapplication/vnd.noblenet-webnnw .nokia.catalogsnokia.catalogs .nokia.conml+wbxmlnokia.conml+wbxml .nokia.conml+xmlnokia.conml+xml .nokia.iptv.config+xmlnokia.iptv.config+xml .nokia.isds-radio-presetsnokia.isds-radio-presets .nokia.landmark+wbxmlnokia.landmark+wbxml .nokia.landmark+xmlnokia.landmark+xml .nokia.landmarkcollection+xmlnokia.landmarkcollection+xml .nokia.n-gage.ac+xmlnokia.n-gage.ac+xml!application/vnd.nokia.n-gage.datangdat,application/vnd.nokia.n-gage.symbian.installn-gage .nokia.ncd	nokia.ncd .nokia.pcd+wbxmlnokia.pcd+wbxml .nokia.pcd+xmlnokia.pcd+xml"application/vnd.nokia.radio-presetrpst#application/vnd.nokia.radio-presetsrpssapplication/vnd.novadigm.edmedmapplication/vnd.novadigm.edxedxapplication/vnd.novadigm.extext .ntt-local.content-sharentt-local.content-share .ntt-local.file-transferntt-local.file-transfer .ntt-local.ogw_remote-accessntt-local.ogw_remote-access .ntt-local.sip-ta_remotentt-local.sip-ta_remote .ntt-local.sip-ta_tcp_streamntt-local.sip-ta_tcp_stream(application/vnd.oasis.opendocument.chartodc1application/vnd.oasis.opendocument.chart-templateotc+application/vnd.oasis.opendocument.databaseodb*application/vnd.oasis.opendocument.formulaodf3application/vnd.oasis.opendocument.formula-templateodft+application/vnd.oasis.opendocument.graphicsodg4application/vnd.oasis.opendocument.graphics-templateotg(application/vnd.oasis.opendocument.imageodi1application/vnd.oasis.opendocument.image-templateoti/application/vnd.oasis.opendocument.presentationodp8application/vnd.oasis.opendocument.presentation-templateotp.application/vnd.oasis.opendocument.spreadsheetods7application/vnd.oasis.opendocument.spreadsheet-templateots'application/vnd.oasis.opendocument.textodt.application/vnd.oasis.opendocument.text-masterodm0application/vnd.oasis.opendocument.text-templateott+application/vnd.oasis.opendocument.text-weboth .obnobn .oftn.l10n+jsonoftn.l10n+json  .oipf.contentaccessdownload+xmloipf.contentaccessdownload+xml! .oipf.contentaccessstreaming+xmloipf.contentaccessstreaming+xml .oipf.cspg-hexbinaryoipf.cspg-hexbinary .oipf.dae.svg+xmloipf.dae.svg+xml .oipf.dae.xhtml+xmloipf.dae.xhtml+xml .oipf.mippvcontrolmessage+xmloipf.mippvcontrolmessage+xml .oipf.pae.gemoipf.pae.gem .oipf.spdiscovery+xmloipf.spdiscovery+xml .oipf.spdlist+xmloipf.spdlist+xml .oipf.ueprofile+xmloipf.ueprofile+xml .oipf.userprofile+xmloipf.userprofile+xmlapplication/vnd.olpc-sugarxo .oma-scws-configoma-scws-config .oma-scws-http-requestoma-scws-http-request .oma-scws-http-responseoma-scws-http-response. .oma.bcast.associated-procedure-parameter+xml,oma.bcast.associated-procedure-parameter+xml .oma.bcast.drm-trigger+xmloma.bcast.drm-trigger+xml .oma.bcast.imd+xmloma.bcast.imd+xml .oma.bcast.ltkmoma.bcast.ltkm .oma.bcast.notification+xmloma.bcast.notification+xml .oma.bcast.provisioningtriggeroma.bcast.provisioningtrigger .oma.bcast.sgbootoma.bcast.sgboot .oma.bcast.sgdd+xmloma.bcast.sgdd+xml .oma.bcast.sgduoma.bcast.sgdu# .oma.bcast.simple-symbol-container!oma.bcast.simple-symbol-container! .oma.bcast.smartcard-trigger+xmloma.bcast.smartcard-trigger+xml .oma.bcast.sprov+xmloma.bcast.sprov+xml .oma.bcast.stkmoma.bcast.stkm .oma.cab-address-book+xmloma.cab-address-book+xml .oma.cab-feature-handler+xmloma.cab-feature-handler+xml .oma.cab-pcc+xmloma.cab-pcc+xml .oma.cab-subs-invite+xmloma.cab-subs-invite+xml .oma.cab-user-prefs+xmloma.cab-user-prefs+xml	 .oma.dcdoma.dcd
+ .oma.dcdcoma.dcdcapplication/vnd.oma.dd2+xmldd2 .oma.drm.risd+xmloma.drm.risd+xml .oma.group-usage-list+xmloma.group-usage-list+xml .oma.lwm2m+jsonoma.lwm2m+json .oma.lwm2m+tlvoma.lwm2m+tlv .oma.pal+xmloma.pal+xml& .oma.poc.detailed-progress-report+xml$oma.poc.detailed-progress-report+xml .oma.poc.final-report+xmloma.poc.final-report+xml .oma.poc.groups+xmloma.poc.groups+xml# .oma.poc.invocation-descriptor+xml!oma.poc.invocation-descriptor+xml' .oma.poc.optimized-progress-report+xml%oma.poc.optimized-progress-report+xml
+ .oma.pushoma.push .oma.scidm.messages+xmloma.scidm.messages+xml .oma.xcap-directory+xmloma.xcap-directory+xml .omads-email+xmlomads-email+xml .omads-file+xmlomads-file+xml .omads-folder+xmlomads-folder+xml .omaloc-supl-initomaloc-supl-init
+ .onepageronepager .openblox.game+xmlopenblox.game+xml .openblox.game-binaryopenblox.game-binary .openeye.oebopeneye.oeb'application/vnd.openofficeorg.extensionoxt5 .openxmlformats-officedocument.custom-properties+xml3openxmlformats-officedocument.custom-properties+xml7 .openxmlformats-officedocument.customxmlproperties+xml5openxmlformats-officedocument.customxmlproperties+xml+ .openxmlformats-officedocument.drawing+xml)openxmlformats-officedocument.drawing+xml3 .openxmlformats-officedocument.drawingml.chart+xml1openxmlformats-officedocument.drawingml.chart+xml9 .openxmlformats-officedocument.drawingml.chartshapes+xml7openxmlformats-officedocument.drawingml.chartshapes+xml; .openxmlformats-officedocument.drawingml.diagramcolors+xml9openxmlformats-officedocument.drawingml.diagramcolors+xml9 .openxmlformats-officedocument.drawingml.diagramdata+xml7openxmlformats-officedocument.drawingml.diagramdata+xml; .openxmlformats-officedocument.drawingml.diagramlayout+xml9openxmlformats-officedocument.drawingml.diagramlayout+xml: .openxmlformats-officedocument.drawingml.diagramstyle+xml8openxmlformats-officedocument.drawingml.diagramstyle+xml7 .openxmlformats-officedocument.extended-properties+xml5openxmlformats-officedocument.extended-properties+xmlA .openxmlformats-officedocument.presentationml.commentauthors+xml?openxmlformats-officedocument.presentationml.commentauthors+xml; .openxmlformats-officedocument.presentationml.comments+xml9openxmlformats-officedocument.presentationml.comments+xml@ .openxmlformats-officedocument.presentationml.handoutmaster+xml>openxmlformats-officedocument.presentationml.handoutmaster+xml> .openxmlformats-officedocument.presentationml.notesmaster+xml<openxmlformats-officedocument.presentationml.notesmaster+xml= .openxmlformats-officedocument.presentationml.notesslide+xml;openxmlformats-officedocument.presentationml.notesslide+xmlIapplication/vnd.openxmlformats-officedocument.presentationml.presentationpptxD .openxmlformats-officedocument.presentationml.presentation.main+xmlBopenxmlformats-officedocument.presentationml.presentation.main+xml< .openxmlformats-officedocument.presentationml.presprops+xml:openxmlformats-officedocument.presentationml.presprops+xmlBapplication/vnd.openxmlformats-officedocument.presentationml.slidesldx8 .openxmlformats-officedocument.presentationml.slide+xml6openxmlformats-officedocument.presentationml.slide+xml> .openxmlformats-officedocument.presentationml.slidelayout+xml<openxmlformats-officedocument.presentationml.slidelayout+xml> .openxmlformats-officedocument.presentationml.slidemaster+xml<openxmlformats-officedocument.presentationml.slidemaster+xmlFapplication/vnd.openxmlformats-officedocument.presentationml.slideshowppsxA .openxmlformats-officedocument.presentationml.slideshow.main+xml?openxmlformats-officedocument.presentationml.slideshow.main+xmlB .openxmlformats-officedocument.presentationml.slideupdateinfo+xml@openxmlformats-officedocument.presentationml.slideupdateinfo+xml> .openxmlformats-officedocument.presentationml.tablestyles+xml<openxmlformats-officedocument.presentationml.tablestyles+xml7 .openxmlformats-officedocument.presentationml.tags+xml5openxmlformats-officedocument.presentationml.tags+xmlEapplication/vnd.openxmlformats-officedocument.presentationml.templatepotx@ .openxmlformats-officedocument.presentationml.template.main+xml>openxmlformats-officedocument.presentationml.template.main+xml< .openxmlformats-officedocument.presentationml.viewprops+xml:openxmlformats-officedocument.presentationml.viewprops+xml; .openxmlformats-officedocument.spreadsheetml.calcchain+xml9openxmlformats-officedocument.spreadsheetml.calcchain+xml< .openxmlformats-officedocument.spreadsheetml.chartsheet+xml:openxmlformats-officedocument.spreadsheetml.chartsheet+xml: .openxmlformats-officedocument.spreadsheetml.comments+xml8openxmlformats-officedocument.spreadsheetml.comments+xml= .openxmlformats-officedocument.spreadsheetml.connections+xml;openxmlformats-officedocument.spreadsheetml.connections+xml= .openxmlformats-officedocument.spreadsheetml.dialogsheet+xml;openxmlformats-officedocument.spreadsheetml.dialogsheet+xml> .openxmlformats-officedocument.spreadsheetml.externallink+xml<openxmlformats-officedocument.spreadsheetml.externallink+xmlF .openxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xmlDopenxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xmlC .openxmlformats-officedocument.spreadsheetml.pivotcacherecords+xmlAopenxmlformats-officedocument.spreadsheetml.pivotcacherecords+xml< .openxmlformats-officedocument.spreadsheetml.pivottable+xml:openxmlformats-officedocument.spreadsheetml.pivottable+xml< .openxmlformats-officedocument.spreadsheetml.querytable+xml:openxmlformats-officedocument.spreadsheetml.querytable+xmlA .openxmlformats-officedocument.spreadsheetml.revisionheaders+xml?openxmlformats-officedocument.spreadsheetml.revisionheaders+xml= .openxmlformats-officedocument.spreadsheetml.revisionlog+xml;openxmlformats-officedocument.spreadsheetml.revisionlog+xml? .openxmlformats-officedocument.spreadsheetml.sharedstrings+xml=openxmlformats-officedocument.spreadsheetml.sharedstrings+xmlAapplication/vnd.openxmlformats-officedocument.spreadsheetml.sheetxlsx< .openxmlformats-officedocument.spreadsheetml.sheet.main+xml:openxmlformats-officedocument.spreadsheetml.sheet.main+xml? .openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml=openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml8 .openxmlformats-officedocument.spreadsheetml.styles+xml6openxmlformats-officedocument.spreadsheetml.styles+xml7 .openxmlformats-officedocument.spreadsheetml.table+xml5openxmlformats-officedocument.spreadsheetml.table+xmlB .openxmlformats-officedocument.spreadsheetml.tablesinglecells+xml@openxmlformats-officedocument.spreadsheetml.tablesinglecells+xmlDapplication/vnd.openxmlformats-officedocument.spreadsheetml.templatexltx? .openxmlformats-officedocument.spreadsheetml.template.main+xml=openxmlformats-officedocument.spreadsheetml.template.main+xml; .openxmlformats-officedocument.spreadsheetml.usernames+xml9openxmlformats-officedocument.spreadsheetml.usernames+xmlF .openxmlformats-officedocument.spreadsheetml.volatiledependencies+xmlDopenxmlformats-officedocument.spreadsheetml.volatiledependencies+xml; .openxmlformats-officedocument.spreadsheetml.worksheet+xml9openxmlformats-officedocument.spreadsheetml.worksheet+xml) .openxmlformats-officedocument.theme+xml'openxmlformats-officedocument.theme+xml1 .openxmlformats-officedocument.themeoverride+xml/openxmlformats-officedocument.themeoverride+xml* .openxmlformats-officedocument.vmldrawing(openxmlformats-officedocument.vmldrawing= .openxmlformats-officedocument.wordprocessingml.comments+xml;openxmlformats-officedocument.wordprocessingml.comments+xmlGapplication/vnd.openxmlformats-officedocument.wordprocessingml.documentdocxF .openxmlformats-officedocument.wordprocessingml.document.glossary+xmlDopenxmlformats-officedocument.wordprocessingml.document.glossary+xmlB .openxmlformats-officedocument.wordprocessingml.document.main+xml@openxmlformats-officedocument.wordprocessingml.document.main+xml= .openxmlformats-officedocument.wordprocessingml.endnotes+xml;openxmlformats-officedocument.wordprocessingml.endnotes+xml> .openxmlformats-officedocument.wordprocessingml.fonttable+xml<openxmlformats-officedocument.wordprocessingml.fonttable+xml; .openxmlformats-officedocument.wordprocessingml.footer+xml9openxmlformats-officedocument.wordprocessingml.footer+xml> .openxmlformats-officedocument.wordprocessingml.footnotes+xml<openxmlformats-officedocument.wordprocessingml.footnotes+xml> .openxmlformats-officedocument.wordprocessingml.numbering+xml<openxmlformats-officedocument.wordprocessingml.numbering+xml= .openxmlformats-officedocument.wordprocessingml.settings+xml;openxmlformats-officedocument.wordprocessingml.settings+xml; .openxmlformats-officedocument.wordprocessingml.styles+xml9openxmlformats-officedocument.wordprocessingml.styles+xmlGapplication/vnd.openxmlformats-officedocument.wordprocessingml.templatedotxB .openxmlformats-officedocument.wordprocessingml.template.main+xml@openxmlformats-officedocument.wordprocessingml.template.main+xml@ .openxmlformats-officedocument.wordprocessingml.websettings+xml>openxmlformats-officedocument.wordprocessingml.websettings+xml, .openxmlformats-package.core-properties+xml*openxmlformats-package.core-properties+xml; .openxmlformats-package.digital-signature-xmlsignature+xml9openxmlformats-package.digital-signature-xmlsignature+xml* .openxmlformats-package.relationships+xml(openxmlformats-package.relationships+xml .oracle.resource+jsonoracle.resource+json .orange.indataorange.indata .osa.netdeployosa.netdeploy&application/vnd.osgeo.mapguide.packagemgp .osgi.bundleosgi.bundleapplication/vnd.osgi.dpdpapplication/vnd.osgi.subsystemesa .otps.ct-kip+xmlotps.ct-kip+xml .oxli.countgraphoxli.countgraph .pagerduty+jsonpagerduty+jsonapplication/vnd.palmpdbpqaoprc	 .panoplypanoply
+ .paos.xmlpaos.xmlapplication/vnd.pawaafilepaw .pcospcosapplication/vnd.pg.formatstrapplication/vnd.pg.osasliei6 .piaccess.application-licencepiaccess.application-licenceapplication/vnd.picselefifapplication/vnd.pmi.widgetwg .poc.group-advertisement+xmlpoc.group-advertisement+xmlapplication/vnd.pocketlearnplfapplication/vnd.powerbuilder6pbd .powerbuilder6-spowerbuilder6-s .powerbuilder7powerbuilder7 .powerbuilder7-spowerbuilder7-s .powerbuilder75powerbuilder75 .powerbuilder75-spowerbuilder75-s
+ .preminetpreminet"application/vnd.previewsystems.boxbox application/vnd.proteus.magazinemgz%application/vnd.publishare-delta-treeqpsapplication/vnd.pvi.ptid1ptid .pwg-multiplexedpwg-multiplexed .pwg-xhtml-print+xmlpwg-xhtml-print+xml .qualcomm.brew-app-resqualcomm.brew-app-res .quarantainenetquarantainenet!application/vnd.quark.quarkxpressqxdqxtqwdqwtqxlqxb .quobject-quoxdocumentquobject-quoxdocument .radisys.moml+xmlradisys.moml+xml .radisys.msml+xmlradisys.msml+xml .radisys.msml-audit+xmlradisys.msml-audit+xml .radisys.msml-audit-conf+xmlradisys.msml-audit-conf+xml .radisys.msml-audit-conn+xmlradisys.msml-audit-conn+xml .radisys.msml-audit-dialog+xmlradisys.msml-audit-dialog+xml .radisys.msml-audit-stream+xmlradisys.msml-audit-stream+xml .radisys.msml-conf+xmlradisys.msml-conf+xml .radisys.msml-dialog+xmlradisys.msml-dialog+xml .radisys.msml-dialog-base+xmlradisys.msml-dialog-base+xml$ .radisys.msml-dialog-fax-detect+xml"radisys.msml-dialog-fax-detect+xml& .radisys.msml-dialog-fax-sendrecv+xml$radisys.msml-dialog-fax-sendrecv+xml .radisys.msml-dialog-group+xmlradisys.msml-dialog-group+xml  .radisys.msml-dialog-speech+xmlradisys.msml-dialog-speech+xml# .radisys.msml-dialog-transform+xml!radisys.msml-dialog-transform+xml .rainstor.datarainstor.data .rapidrapid .rarrarapplication/vnd.realvnc.bedbed"application/vnd.recordare.musicxmlmxl&application/vnd.recordare.musicxml+xmlmusicxml .renlearn.rlprintrenlearn.rlprintapplication/vnd.rig.cryptonote
+cryptonoteapplication/vnd.rim.codcodapplication/vnd.rn-realmediarm application/vnd.rn-realmedia-vbrrmvb"application/vnd.route66.link66+xmllink66	 .rs-274xrs-274x .ruckus.downloadruckus.download .s3smss3sms$application/vnd.sailingtracker.trackst	 .sbm.cidsbm.cid
+ .sbm.mid2sbm.mid2	 .scribusscribus .sealed.3df
+sealed.3df .sealed.csf
+sealed.csf .sealed.doc
+sealed.doc .sealed.eml
+sealed.eml .sealed.mht
+sealed.mht .sealed.net
+sealed.net .sealed.ppt
+sealed.ppt .sealed.tiffsealed.tiff .sealed.xls
+sealed.xls .sealedmedia.softseal.htmlsealedmedia.softseal.html .sealedmedia.softseal.pdfsealedmedia.softseal.pdfapplication/vnd.seemailseeapplication/vnd.semasemaapplication/vnd.semdsemdapplication/vnd.semfsemf'application/vnd.shana.informed.formdataifm+application/vnd.shana.informed.formtemplateitp*application/vnd.shana.informed.interchangeiif&application/vnd.shana.informed.packageipk"application/vnd.simtech-mindmappertwdtwds .siren+json
+siren+jsonapplication/vnd.smafmmf .smart.notebooksmart.notebookapplication/vnd.smart.teacherteacher .software602.filler.form+xmlsoftware602.filler.form+xml! .software602.filler.form-xml-zipsoftware602.filler.form-xml-zipapplication/vnd.solent.sdkm+xmlsdkmsdkdapplication/vnd.spotfire.dxpdxpapplication/vnd.spotfire.sfssfs	 .sss-codsss-cod	 .sss-dtfsss-dtf	 .sss-ntfsss-ntf!application/vnd.stardivision.calcsdc!application/vnd.stardivision.drawsda$application/vnd.stardivision.impresssdd!application/vnd.stardivision.mathsmf#application/vnd.stardivision.writersdwvor*application/vnd.stardivision.writer-globalsgl!application/vnd.stepmania.packagesmzip#application/vnd.stepmania.stepchartsm .street-streamstreet-stream .sun.wadl+xmlsun.wadl+xmlapplication/vnd.sun.xml.calcsxc%application/vnd.sun.xml.calc.templatestcapplication/vnd.sun.xml.drawsxd%application/vnd.sun.xml.draw.templatestdapplication/vnd.sun.xml.impresssxi(application/vnd.sun.xml.impress.templatestiapplication/vnd.sun.xml.mathsxmapplication/vnd.sun.xml.writersxw%application/vnd.sun.xml.writer.globalsxg'application/vnd.sun.xml.writer.templatestwapplication/vnd.sus-calendarsussuspapplication/vnd.svdsvd .swiftview-icsswiftview-icsapplication/vnd.symbian.installsissisxapplication/vnd.syncml+xmlxsmapplication/vnd.syncml.dm+wbxmlbdmapplication/vnd.syncml.dm+xmlxdm .syncml.dm.notificationsyncml.dm.notification .syncml.dmddf+wbxmlsyncml.dmddf+wbxml .syncml.dmddf+xmlsyncml.dmddf+xml .syncml.dmtnds+wbxmlsyncml.dmtnds+wbxml .syncml.dmtnds+xmlsyncml.dmtnds+xml .syncml.ds.notificationsyncml.ds.notification)application/vnd.tao.intent-module-archivetaoapplication/vnd.tcpdump.pcappcapcapdmp .tmd.mediaflex.api+xmltmd.mediaflex.api+xml .tmltmlapplication/vnd.tmobile-livetvtmoapplication/vnd.trid.tpttptapplication/vnd.triscape.mxsmxsapplication/vnd.trueapptra	 .truedoctruedoc .ubisoft.webplayerubisoft.webplayerapplication/vnd.ufdlufdufdlapplication/vnd.uiq.themeutzapplication/vnd.umajinumjapplication/vnd.unityunitywebapplication/vnd.uoml+xmluoml .uplanet.alertuplanet.alert .uplanet.alert-wbxmluplanet.alert-wbxml .uplanet.bearer-choiceuplanet.bearer-choice .uplanet.bearer-choice-wbxmluplanet.bearer-choice-wbxml .uplanet.cacheopuplanet.cacheop .uplanet.cacheop-wbxmluplanet.cacheop-wbxml .uplanet.channeluplanet.channel .uplanet.channel-wbxmluplanet.channel-wbxml .uplanet.listuplanet.list .uplanet.list-wbxmluplanet.list-wbxml .uplanet.listcmduplanet.listcmd .uplanet.listcmd-wbxmluplanet.listcmd-wbxml .uplanet.signaluplanet.signal	 .uri-mapuri-map .valve.source.materialvalve.source.materialapplication/vnd.vcxvcx
+ .vd-studyvd-study .vectorworksvectorworks
+ .vel+jsonvel+json .verimatrix.vcasverimatrix.vcas .vidsoft.vidconferencevidsoft.vidconferenceapplication/vnd.visiovsdvstvssvswapplication/vnd.visionaryvis .vividence.scriptfilevividence.scriptfileapplication/vnd.vsfvsf	 .wap.sicwap.sic	 .wap.slcwap.slcapplication/vnd.wap.wbxmlwbxmlapplication/vnd.wap.wmlcwmlcapplication/vnd.wap.wmlscriptcwmlscapplication/vnd.webturbowtb	 .wfa.p2pwfa.p2p	 .wfa.wscwfa.wsc .windows.devicepairingwindows.devicepairing .wmcwmc .wmf.bootstrapwmf.bootstrap .wolfram.mathematicawolfram.mathematica .wolfram.mathematica.packagewolfram.mathematica.packageapplication/vnd.wolfram.playernbpapplication/vnd.wordperfectwpdapplication/vnd.wqdwqd .wrq-hp3000-labelledwrq-hp3000-labelledapplication/vnd.wt.stfstf .wv.csp+wbxmlwv.csp+wbxml .wv.csp+xml
+wv.csp+xml .wv.ssp+xml
+wv.ssp+xml .xacml+json
+xacml+jsonapplication/vnd.xaraxarapplication/vnd.xfdlxfdl .xfdl.webformxfdl.webform	 .xmi+xmlxmi+xml .xmpie.cpkg
+xmpie.cpkg .xmpie.dpkg
+xmpie.dpkg .xmpie.plan
+xmpie.plan .xmpie.ppkg
+xmpie.ppkg .xmpie.xlim
+xmpie.xlimapplication/vnd.yamaha.hv-dichvd application/vnd.yamaha.hv-scripthvsapplication/vnd.yamaha.hv-voicehvp&application/vnd.yamaha.openscoreformatosf1application/vnd.yamaha.openscoreformat.osfpvg+xmlosfpvg .yamaha.remote-setupyamaha.remote-setup!application/vnd.yamaha.smaf-audiosaf"application/vnd.yamaha.smaf-phrasespf .yamaha.through-ngnyamaha.through-ngn .yamaha.tunnel-udpencapyamaha.tunnel-udpencap	 .yaowemeyaoweme'application/vnd.yellowriver-custom-menucmpapplication/vnd.zulzirzirzapplication/vnd.zzazz.deck+xmlzazapplication/voicexml+xmlvxmlapplication/widgetwgtapplication/winhlphlp .11application/wsdl+xmlwsdlapplication/wspolicy+xmlwspolicyapplication/x-7z-compressed7zapplication/x-abiwordabwapplication/x-ace-compressedaceapplication/x-apple-diskimagedmgapplication/x-authorware-binaabx32u32voxapplication/x-authorware-mapaamapplication/x-authorware-segaasapplication/x-bcpiobcpioapplication/x-bittorrenttorrentapplication/x-blorbblbblorbapplication/x-bzipbzapplication/x-bzip2bz2bozapplication/x-cbrcbrcbacbtcbzcb7application/x-cdlinkvcdapplication/x-cfs-compressedcfsapplication/x-chatchatapplication/x-chess-pgnpgnapplication/x-conferencenscapplication/x-cpiocpioapplication/x-cshcshapplication/x-debian-packagedebudebapplication/x-dgc-compresseddgcapplication/x-directordirdcrcstcctcxtw3dfgdswaapplication/x-doomwadapplication/x-dtbncx+xmlncxapplication/x-dtbook+xmldtbapplication/x-dtbresource+xmlresapplication/x-dvidviapplication/x-envoyevyapplication/x-evaevaapplication/x-font-bdfbdfapplication/x-font-ghostscriptgsfapplication/x-font-linux-psfpsfapplication/x-font-pcfpcfapplication/x-font-snfsnfapplication/x-font-type1pfapfbpfmafmapplication/x-freearcarcapplication/x-futuresplashsplapplication/x-gca-compressedgcaapplication/x-glulxulxapplication/x-gnumericgnumericapplication/x-gramps-xmlgrampsapplication/x-gtargtarapplication/x-hdfhdf"application/x-install-instructionsinstallapplication/x-iso9660-imageisoapplication/x-java-jnlp-filejnlpapplication/x-latexlatexapplication/x-lzh-compressedlzhlhaapplication/x-miemieapplication/x-mobipocket-ebookprcmobiapplication/x-ms-applicationapplicationapplication/x-ms-shortcutlnkapplication/x-ms-wmdwmdapplication/x-ms-wmzwmzapplication/x-ms-xbapxbapapplication/x-msaccessmdbapplication/x-msbinderobdapplication/x-mscardfilecrdapplication/x-msclipclpapplication/x-msdownloadexedllcombatmsiapplication/x-msmediaviewmvbm13m14application/x-msmetafilewmfemfemzapplication/x-msmoneymnyapplication/x-mspublisherpubapplication/x-msschedulescdapplication/x-msterminaltrmapplication/x-mswritewriapplication/x-netcdfnccdfapplication/x-nzbnzbapplication/x-pkcs12p12pfx application/x-pkcs7-certificatesp7bspcapplication/x-pkcs7-certreqrespp7rapplication/x-rar-compressed#application/x-research-info-systemsrisapplication/x-shshapplication/x-sharsharapplication/x-shockwave-flashswfapplication/x-silverlight-appxapapplication/x-sqlsqlapplication/x-stuffitsitapplication/x-stuffitxsitxapplication/x-subripsrtapplication/x-sv4cpiosv4cpioapplication/x-sv4crcsv4crcapplication/x-t3vm-imaget3application/x-tadsgamapplication/x-tartarapplication/x-tcltclapplication/x-textexapplication/x-tex-tfmtfmapplication/x-texinfotexinfotexiapplication/x-tgifapplication/x-ustarustarapplication/x-wais-sourcesrcapplication/x-x509-ca-certdercrtapplication/x-xfigfigapplication/x-xliff+xmlxlfapplication/x-xpinstallxpiapplication/x-xzxzapplication/x-zmachinez1z2z3z4z5z6z7z8application/xaml+xmlxamlapplication/xcap-diff+xmlxdfapplication/xenc+xmlxencapplication/xhtml+xmlxhtmlxhtapplication/xmlxmlxslapplication/xml-dtddtdapplication/xop+xmlxopapplication/xproc+xmlxplapplication/xslt+xmlxsltapplication/xspf+xmlxspfapplication/xv+xmlmxmlxhvmlxvmlxvmapplication/yangyangapplication/yin+xmlyinapplication/zipzipaudio/adpcmadpaudio/basicausnd .55
+audio/midimidmidikarrmi	audio/mp4m4amp4a
+audio/mpegmpgamp2mp2amp3m2am3a	audio/oggogaoggspx .sidsid	audio/s3ms3m
+audio/silksil .3gpp.iufp	3gpp.iufp .4sb4sb
+ .audiokozaudiokoz .celpcelp .cisco.nse	cisco.nse .cmles.radio-eventscmles.radio-events
+ .cns.anp1cns.anp1
+ .cns.inf1cns.inf1audio/vnd.dece.audiouvauvvaaudio/vnd.digital-windseol .dlna.adts	dlna.adts .dolby.heaac.1dolby.heaac.1 .dolby.heaac.2dolby.heaac.2 .dolby.mlp	dolby.mlp .dolby.mps	dolby.mps .dolby.pl2	dolby.pl2 .dolby.pl2x
+dolby.pl2x .dolby.pl2z
+dolby.pl2z .dolby.pulse.1dolby.pulse.1audio/vnd.dradraaudio/vnd.dtsdtsaudio/vnd.dts.hddtshd
+ .dvb.filedvb.file .everad.plj
+everad.plj .hns.audio	hns.audioaudio/vnd.lucent.voicelvp audio/vnd.ms-playready.media.pyapya .nokia.mobile-xmfnokia.mobile-xmf .nortel.vbk
+nortel.vbkaudio/vnd.nuera.ecelp4800	ecelp4800audio/vnd.nuera.ecelp7470	ecelp7470audio/vnd.nuera.ecelp9600	ecelp9600 .octel.sbc	octel.sbc .qcelpqcelp .rhetorex.32kadpcmrhetorex.32kadpcmaudio/vnd.riprip .sealedmedia.softseal.mpegsealedmedia.softseal.mpeg
+ .vmx.cvsdvmx.cvsd
+audio/webmwebaaudio/x-aacaacaudio/x-aiffaifaiffaifcaudio/x-cafcafaudio/x-flacflacaudio/x-matroskamkaaudio/x-mpegurlm3uaudio/x-ms-waxwaxaudio/x-ms-wmawmaaudio/x-pn-realaudioramraaudio/x-pn-realaudio-pluginrmpaudio/x-wavwavaudio/xmxmchemical/x-cdxcdxchemical/x-cifcifchemical/x-cmdfcmdfchemical/x-cmlcmlchemical/x-csmlcsmlchemical/x-xyzxyzfont/collectionttcfont/otfotffont/ttfttf	font/woffwoff
+font/woff2woff2	image/bmpbmp	image/cgmcgmimage/g3faxg3	image/gifgif	image/iefief
+image/jpegjpegjpgjpe	image/ktxktx	image/pngpngimage/prs.btifbtif .ptipti	image/sgisgiimage/svg+xmlsvgsvgz
+image/tifftifftifimage/vnd.adobe.photoshoppsd .airzip.accelerator.azvairzip.accelerator.azv
+ .cns.inf2cns.inf2image/vnd.dece.graphicuviuvviuvguvvgimage/vnd.djvudjvudjvimage/vnd.dvb.subtitlesubimage/vnd.dwgdwgimage/vnd.dxfdxfimage/vnd.fastbidsheetfbsimage/vnd.fpxfpximage/vnd.fstfstimage/vnd.fujixerox.edmics-mmrmmrimage/vnd.fujixerox.edmics-rlcrlc .globalgraphics.pgbglobalgraphics.pgb .microsoft.iconmicrosoft.icon .mixmix .mozilla.apngmozilla.apngimage/vnd.ms-modimdiimage/vnd.ms-photowdpimage/vnd.net-fpxnpx
+ .radianceradiance .sealed.png
+sealed.png .sealedmedia.softseal.gifsealedmedia.softseal.gif .sealedmedia.softseal.jpgsealedmedia.softseal.jpg .svfsvf .tencent.taptencent.tap .valve.source.texturevalve.source.textureimage/vnd.wap.wbmpwbmpimage/vnd.xiffxif .zbrush.pcx
+zbrush.pcx
+image/webpwebpimage/x-3ds3dsimage/x-cmu-rasterrasimage/x-cmxcmximage/x-freehandfhfhcfh4fh5fh7image/x-iconicoimage/x-mrsid-imageimage/x-pcxpcximage/x-pictpicpctimage/x-portable-anymappnmimage/x-portable-bitmappbmimage/x-portable-graymappgmimage/x-portable-pixmapppmimage/x-rgbrgbimage/x-tgatgaimage/x-xbitmapxbmimage/x-xpixmapxpmimage/x-xwindowdumpxwdmessage/rfc822emlmime	 .si.simpsi.simp
+model/igesigsiges
+model/meshmshmeshsilomodel/vnd.collada+xmldaemodel/vnd.dwfdwf .flatland.3dmlflatland.3dmlmodel/vnd.gdlgdl .gs-gdlgs-gdl .gs.gdlgs.gdlmodel/vnd.gtwgtw
+ .moml+xmlmoml+xmlmodel/vnd.mtsmts	 .opengexopengex .parasolid.transmit.binaryparasolid.transmit.binary .parasolid.transmit.textparasolid.transmit.text .rosette.annotated-data-modelrosette.annotated-data-model .valve.source.compiled-mapvalve.source.compiled-mapmodel/vnd.vtuvtu
+model/vrmlwrlvrmlmodel/x3d+binaryx3dbx3dbzmodel/x3d+vrmlx3dvx3dvzmodel/x3d+xmlx3dx3dztext/cache-manifestappcachetext/calendaricsifbtext/csscsstext/csvcsv	text/htmlhtmlhtmtext/n3n3
+text/plaintxttextconfdeflistlogin .fallenstein.rstfallenstein.rsttext/prs.lines.tagdsc .prop.logic
+prop.logictext/richtextrtx	text/sgmlsgmlsgmtext/tab-separated-valuestsv
+text/troffttrroffmanmemstext/turtlettltext/uri-listuriurisurls
+text/vcardvcard .aa .abcabctext/vnd.curltext/vnd.curl.dcurldcurltext/vnd.curl.mcurlmcurltext/vnd.curl.scurlscurl .debian.copyrightdebian.copyright .dmclientscriptdmclientscripttext/vnd.dvb.subtitle .esmertec.theme-descriptoresmertec.theme-descriptortext/vnd.flyflytext/vnd.fmi.flexstorflxtext/vnd.graphvizgvtext/vnd.in3d.3dml3dmltext/vnd.in3d.spotspot .iptc.newsmliptc.newsml .iptc.nitf	iptc.nitf	 .latex-zlatex-z .motorola.reflexmotorola.reflex .ms-mediapackagems-mediapackage .net2phone.commcenter.commandnet2phone.commcenter.command .radisys.msml-basic-layoutradisys.msml-basic-layout .si.uricataloguesi.uricatalogue text/vnd.sun.j2me.app-descriptorjad .trolltech.linguisttrolltech.linguist .wap.siwap.si .wap.slwap.sltext/vnd.wap.wmlwmltext/vnd.wap.wmlscriptwmls
+text/x-asmsasmtext/x-cccccxxcpphhhdictext/x-fortranfforf77f90text/x-java-sourcejava
+text/x-nfonfotext/x-opmlopmltext/x-pascalppastext/x-setextetx
+text/x-sfvsfvtext/x-uuencodeuutext/x-vcalendarvcstext/x-vcardvcf
+video/3gpp3gpvideo/3gpp23g2
+video/h261h261
+video/h263h263
+video/h264h264	 .segmentsegment
+video/jpegjpgv	video/jpmjpmjpgm	video/mj2mj2mjp2	video/mp4mp4mp4vmpg4
+video/mpegmpegmpgmpem1vm2v	video/oggogvvideo/quicktimeqtmov .cctvcctvvideo/vnd.dece.hduvhuvvhvideo/vnd.dece.mobileuvmuvvm
+ .dece.mp4dece.mp4video/vnd.dece.pduvpuvvpvideo/vnd.dece.sduvsuvvsvideo/vnd.dece.videouvvuvvv .directv.mpegdirectv.mpeg .directv.mpeg-ttsdirectv.mpeg-tts .dlna.mpeg-ttsdlna.mpeg-ttsvideo/vnd.dvb.filedvbvideo/vnd.fvtfvt .hns.video	hns.video .iptvforum.1dparityfec-1010iptvforum.1dparityfec-1010 .iptvforum.1dparityfec-2005iptvforum.1dparityfec-2005 .iptvforum.2dparityfec-1010iptvforum.2dparityfec-1010 .iptvforum.2dparityfec-2005iptvforum.2dparityfec-2005 .iptvforum.ttsavciptvforum.ttsavc .iptvforum.ttsmpeg2iptvforum.ttsmpeg2 .motorola.videomotorola.video .motorola.videopmotorola.videopvideo/vnd.mpegurlmxum4u video/vnd.ms-playready.media.pyvpyv .nokia.interleaved-multimedianokia.interleaved-multimedia .nokia.videovoipnokia.videovoip .objectvideoobjectvideo .radgamettools.binkradgamettools.bink .radgamettools.smackerradgamettools.smacker .sealed.mpeg1sealed.mpeg1 .sealed.mpeg4sealed.mpeg4 .sealed.swf
+sealed.swf .sealedmedia.softseal.movsealedmedia.softseal.movvideo/vnd.uvvu.mp4uvuuvvuvideo/vnd.vivoviv
+video/webmwebmvideo/x-f4vf4vvideo/x-fliflivideo/x-flvflvvideo/x-m4vm4vvideo/x-matroskamkvmk3dmksvideo/x-mngmngvideo/x-ms-asfasfasxvideo/x-ms-vobvobvideo/x-ms-wmwmvideo/x-ms-wmvwmvvideo/x-ms-wmxwmxvideo/x-ms-wvxwvxvideo/x-msvideoavivideo/x-sgi-moviemovievideo/x-smvsmvx-conference/x-cooltalkice    Ê%A   5         +     ›     ‘     µ     Ş	   
+  ¿     (     ¤     ¹     Ÿ     8     Ç     §     g     á     q      !   "  m#   $  3%   &  Æ'   (  6)   *  ô+   ,  Õ-   .  ¦/   0  1   2  3   4  •5   6  ã7   8  Æ9   :  à;   <  H=   >  ?   @  WA   B  \C   D  «E   D  üF   G  AH   I  çJ   K  eL   M  N   O  P   Q  ¥R   S  ÖT   U  æV   W  ÃX   Y  %Z   [  S\   ]  §^   _  `   a  Vb   a  6c   a  5d   e  f   g  ùh   i  Şj   k  úl   m  !n   o  Ïp   q  ²r   s  jt   s  Òu   v  w   x  y   x  Ëz   {  Ü|   }  Ï~   }  Q   }  €   }  â   }  “‚   }  ƒ   }  ¶„   }  >…   }  –†   }  9‡   }   ˆ   }  ó‰   Š  "‹   Œ  Ô     Ş     G‘   ’  ş“   ’  v”   ’  ‹•   ’  –   —  ˜   ™  zš   ›  œ     Ò   Ÿ  º    Ÿ  t¡   ¢  £   ¤  Ÿ¥   ¦  M§   ¦  Ş¨   ©  Åª   «  ´¬   ­  ®   ¯  •°   ±  ²   ³  [´   µ  ‚¶   ·  |¸   ¹  @º   ¹  ö»   ¹  ¼   ½  ¾   ¿  ™À   Á  2Â   Ã  9Ä   Å  Æ   Ç  ıÈ   É  XÊ   Ë  fÌ   Í  Î   Ï  .Ğ   Ñ  Ò   Ó  óÔ   Õ  šÖ   ×  Ø   Ù  ‡Ú   Û  tÜ   İ  Ş   ß  aà   á  ˜â   ã  Rä   å   æ   ç  ‘è   é  £ê   ë  öì   í  Ÿî   ï  vğ   ñ  Çò   ó  ãô   õ  ö   ÷  Mø   ÷  Wù   ú  Mû   ü  Ôı   ş  mÿ        Î   ­   ×   F	   ÷
+   ê   g   V   b   e   ö   O   d   R   ²   V   ! D"  # $  % &  ' }(  ) û*  +  ,  - È.  / ¸0  1 ­2  3 U4  5 v6  7 ±8  9 O:  ; Š<  = >  = '?  @ A  B C  D E  F âG  F H  I OJ  K IL  M ŞN  O îP  Q ÒR  S )T  U 
+V  W ¾X  Y DZ  [ \  ] †^  _ S`  a "b  c ‘d  e ßf  g Öh  i j  k dl  m ’n  o `p  q Ür  s Ot  u ÿv  w ¯x  y âz  { 8|  } ]~   m€   ‚  ƒ „  … &†  ‡ hˆ  ‰ 2Š  ‹ %Œ   :     ‘ {’  “ ”  • R–  — ˜  ™ š  › œ     Ÿ L   ¡ X¢  £ ^¤  ¥ ¦  § B¨  © #ª  « â¬  ­ %®  ¯ 4°  ± ‰²  ³ ª´  ³ µ  ³ ¶  ³ R·  ³ ½¸  ¹ öº  » ÷¼  ½ ¾  ¿ kÀ  Á ½Â  Ã FÄ  Å çÆ  Ç ¶È  É Ê  Ë ÑÌ  Í dÎ  Ï GĞ  Ñ ØÒ  Ó µÔ  Õ rÖ  × éØ  Ù ‡Ú  Û Ü  İ ¬Ş  ß Xà  á Jâ  ã ä  å Çæ  ç éè  é ê  ë Zì  í î  ï Eğ  ñ dò  ó \ô  õ Pö  ÷ Éø  ù {ú  û —ü  û hı  û …ş  û Æÿ        É   ]   ¿   Ï   ™  	 ¹
+   É   …   l   ÷   F      ³   }   1   ˜   f   ! Q"  # ·$  % ÷&  ' è(  ) *  + Â,  - .  / ,0  1 }2  3 ^4  5 æ6  7 _8  9 .:  ; `<  = >  ? N@  A öB  C ÅD  E íF  G ¿H  I “J  K %L  M ŒN  O *P  Q –R  S HT  U ÔV  W nX  Y .Z  [ t\  ] ³^  _ 9`  a Ùb  c ¢d  e 9f  g èh  i ®j  k Bl  m Çn  o dp  q lr  s Ít  u ^v  w rx  y Dz  { Á|  { ï}  ~ ˜  € ¨  ‚ ˜ƒ  „ ó…  † ‡  ˆ ²‰  Š ‹  Œ Ì   ½    ‘  ’ “  ” ·•  – Ç—  ˜ ¯™  š Y›  œ Î   ßŸ    =¡  ¢ £  ¤ ¥  ¦ Û§  ¨ »©  ª 4«  ¬ ÿ­  ® ¦¯  ° 4±  ² ÷³  ´ µ  ¶ n·  ¸ »¹  ¸ ‰º  » 9¼  ½ )¾  ¿ XÀ  Á ¡Â  Ã ğÄ  Å ›Æ  Ç æÈ  É ŞÊ  É ½Ë  É Ì  É WÍ  Î cÏ  Ğ LÑ  Ò ½Ó  Ô åÕ  Ö H×  Ø Ù  Ú FÛ  Ü ¬İ  Ş wß  à ûá  â ¢ã  ä Æå  æ Ñç  è ßé  ê rë  ì í  î »ï  ğ Éñ  ò wó  ô Wõ  ö 2÷  ø ù  ú û  ú Õü  ı 'ş  ÿ `    J   B   ´   †  	 E
+   ‘   k   ñ   û   <   /   Ñ   w   Ê   š   Ù    !  " ˜#  $ Ë%  & :'  ( )  * Í+  , K-  . é/  0 1  2 ½3  4 ×5  6 W7  8 9  : f;  < ñ=  > ©?  @ ‡A  B rC  D ¦E  F 2G  H eI  J K  L ½M  N O  P €Q  R "S  R T  R JU  V ØW  X Y  Z [  Z —\  ] ^  _ `  a ¦b  c Ed  e mf  g h  i ğj  k £l  m :n  o ïp  q àr  s t  u v  w àx  y èz  { Z|  } ú~   œ€   ‚  ƒ e„  ƒ ’…  † u‡  ˆ V‰  Š û‹  Œ    =   ‘  ’ ²“  ” •  – æ—  ˜ ò™  š E›  œ Ò   ØŸ    +¡  ¢ ˆ£  ¤ ¥  ¦ Ê§  ¨ ©  ª 7«  ¬ ­  ® .¯  ° É±  ² £³  ´ 8µ  ¶ K·  ¸ _¹  º H»  ¼ M½  ¾ Ş¿  À œÁ  À Â  Ã #Ä  Å 5Æ  Ç È  É öÊ  Ë aÌ  Í …Î  Í -Ï  Ğ 4Ñ  Ò ÑÓ  Ò úÔ  Õ xÖ  × ÊØ  Ù hÚ  Ù ®Û  Ü Rİ  Ü úŞ  Ü ß  Ü ‡à  á ¹â  ã Áä  å Bæ  ç íè  é äê  ë dì  í “î  ï Üğ  ñ oò  ó /ô  õ ö  ÷ ºø  ù ú  û Ñü  ı 6ş  ÿ Ú    K         3  	 Š
+   ÷   Ñ   ï   ı   e   ¿   ©   Ô   ƒ      3   ! u"  # ü$  % 6&  ' Ú(  ) *  + á,  - V.  / [0  1 Û2  3 ^4  5 å6  7 ª8  9 V:  ; è<  = %>  ? ë@  A B  C 3D  E “F  G ®H  I šJ  K ÜL  M ÏN  O P  Q ˆR  S dT  S ­U  S !V  S SW  S [X  S àY  Z ;[  \ f]  ^ _  ` Ëa  b Êc  d =e  f Tg  h İi  j Æk  l m  n Ìo  p ¢q  r Ês  t Mu  v w  x Öy  x ùz  x ÷{  | ¦}  ~ h  € Û  ‚ ƒ  „ 	…  † ‡  ˆ f‰  Š ‹  Œ •  Œ Ó   £  ‘ ä’  “ ¤”  • t–  — Ü˜  ™ š  › kœ   ä  Ÿ u   ¡ ¢  £ ¤  ¥ à¦  ¥ ¥§  ¥ …¨  ¥ A©  ª Æ«  ¬ á­  ® ğ¯  ° ±  ² ¶³  ´ Öµ  ¶ ±·  ¸ ş¹  º R»  ¼ À½  ¾ \¿  À ÁÁ  Â EÃ  Ä óÅ  Æ AÇ  È ŒÉ  Ê ’Ë  Ì 4Í  Î NÏ  Î óĞ  Ñ dÒ  Ó 8Ô  Õ ¼Ö  × £Ø  Ù âÚ  Û Ü  İ PŞ  ß Pà  á ~â  ã ä  å æ  ç ¼è  é aê  ë kì  í ¼î  ï Iğ  ñ )ò  ó sô  õ Xö  ÷ ²ø  ù lú  û !ü  ı bş  ÿ â    P   —   @   P  	 l
+   Y      „   Ò   æ   *      r      I   u   ! ´"  # ¬$  % X&  ' (  ) Õ*  + ¿,  - Ì.  / -0  1 D2  3 º4  5 î6  7 ä8  9 û:  ; ï<  = P>  ? ~@  A LB  C îD  E jF  G H  I ÓJ  K ºL  M ÷N  O XP  Q R  S NT  U *V  W qX  Y <Z  [ Ö\  ] s^  _ ô`  a æb  c Pd  e f  g ]h  i Åj  k zl  m ¦n  o Æp  q ör  s +t  u Yv  w Şx  y hz  { É|  } ò~   €   9‚  ƒ e„  … d†  ‡ Äˆ  ‰ õŠ  ‹ ¡Œ   ê   ^  ‘ O’  “ ë”  • Ç–  — Î˜  ™ ^š  › ’œ   y  Ÿ ß   ¡ \¢  £ e¤  ¥ ¦  § ¨  © Fª  « Q¬  ­ £®  ¯ Ä°  ± V²  ³ h´  µ é¶  · 0¸  ¹ Dº  » Y¼  ½ P¾  ¿ 8À  Á eÂ  Ã ìÄ  Å ©Æ  Ç ¹È  É ÉÊ  Ë mÌ  Í qÎ  Ï Ğ  Ñ 8Ò  Ó EÔ  Õ Ö  × YØ  Ù ùÚ  Û 	Ü  İ †Ş  ß 
+à  á Aâ  ã ªä  å 8æ  ç ¦è  é hê  ë kì  í iî  ï pğ  ñ ñò  ó Vô  õ Šö  ÷ öø  ù ¨ú  û œü  ı ş  ÿ ì       ¯         	 £
+   H   †   "   h   ÷   u   »   Ì   ã   {   ª   ! w"  # Í$  % J&  ' (  ) U*  + ',  - .  / í0  1 N2  3 4  5 g6  7 ¯8  9 ‹:  ; ß<  = )>  ? b@  A ¬B  C KD  E ûF  G 'H  I XJ  I ûK  I L  M cN  O ÈP  Q bR  S òT  U  V  W X  Y qZ  [ ˜\  ] å^  _ ~`  a b  c éd  e ®f  g Th  i j  k @l  m ùn  o rp  q ‡r  s ¢t  u úv  w ›x  y €z  { à|  } )~   €   Ê‚   İƒ   ë„   ü…   Æ†   š‡  ˆ ‰‰  Š ÷‹  Œ ñ   G   š‘  ’ E“  ” ¿•  – —  ˜ ı™  š v›  œ Õ   'Ÿ    Í¡  ¢ Û£  ¤ ş¥  ¦ Ï§  ¨ /©  ª «  ¬ ï­  ® _¯  ° :±  ² ‰³  ´ İµ  ¶ l·  ¸ Ó¹  º Ò»  ¼ ½  ¾ D¿  À 5Á  Â yÃ  Ä ÁÅ  Æ ÖÇ  È pÉ  Ê ,Ë  Ì ¸Í  Î zÏ  Ğ Ñ  Ò àÓ  Ô %Õ  Ö 2×  Ø ÆÙ  Ú Û  Ü /İ  Ş ›ß  à ïá  â øã  ä Gå  æ áç  è oé  ê ©ë  ì yí  î dï  ğ 7ñ  ò ió  ô èõ  ô ±ö  ÷ Bø  ù °ú  û oü  ı Nş  ÿ 1    û      ˜   ä   	  
+ z   æ   k   \   .   ­   ª   Ë   (   u      Ñ   ! s"  # Ğ$  % å&  ' h(  ) È*  + A,  - ›.  / 0  1 2  3 h4  5 c6  7 ï8  9 H:  9 ò;  < ƒ=  > Â?  @ ëA  @ RB  C ŠD  E ±F  G §H  I %J  K L  M N  O WP  Q ûR  S ëT  U òV  W ±X  W ŠY  W JZ  [ §\  ] ¨^  _ C`  a Úb  c ğd  e \f  g h  i ?j  k Ql  k $m  n Šo  p äq  r ­s  t ^u  v uw  x iy  z Ã{  | /}  ~ ¢  € ‚  ‚ ¨ƒ  „ $…  † ³‡  ˆ ]‰  Š ‹  Œ ©   S   ‘  ’ „“  ” \•  – —  ˜ R™  š Ÿ›  œ 	   ‹Ÿ    e¡    r¢    „£    	¤  ¥ ä¦  § >¨  © wª  « _¬  ­ ®  ¯ '°  ± ²  ³ ¦´  µ ¶  · >¸  ¹ ùº  » •¼  ½ s¾  ¿ !À  Á ÎÂ  Ã pÄ  Å ²Æ  Ç ÎÈ  É -Ê  Ë šÌ  Í SÎ  Ï úĞ  Ñ CÒ  Ó Ô  Õ Ö  × õØ  Ù 'Ú  Û VÜ  İ £Ş  ß uà  á ,â  ã Áä  å iæ  ç aè  é øê  ë <ì  í §î  ï nğ  ñ Yò  ó ™ô  õ 'ö  ÷ Ğø  ù ú  û úü  ı Æş  ÿ E    ù   n   {   ì   j	  
+ o   P   ©   ï   İ   r   —   À            ³   İ   ! ×"  # ‚$  % ¸&  ' \(  ' k)  * (+  , â-  , µ.  / »0  / w1  / ë2  / :3  / 44  5 ñ6  7 8  9 ':  ; ú<  = …>  ? ö@  A B  C uD  C ÂE  F G  H I  H ÛJ  H –R  H EK  H L  H #M  H ´N  H 
+O  H 9P  Q 1R  S TT  U  V  W mX  Y ÎZ  [ Ä\  ] Ê^  _ .`  a fb  c qd  e ıf  g Ëh  i áj  i k  i bl  i qm  n Ûo  p Êq  r šs  t u  v aw  x ²y  z ù{  | }  ~ G  € ‰  ‚ Ãƒ  „ ê…  † :‡  † ¨ˆ  ‰ ÈŠ  ‹ ªŒ  ‹ W   ø   ®‘  ’ ¼“  ” g•  – ˆ—  ˜ _™  š è›  œ p   dŸ    ¡     ¢    "£    Ë¤    ·¥  ¦ I§  ¦ {¨  ¦ Ô©  ª ®«  ª g•  ª ¸¬  ª q­  ® Â¯  ° õ±  ² Œ³  ´ Õµ  ¶ ¬·  ¸ ¹  ¸ /º  » Û¼  ½ M¾  ½ >¿  À Á  À ëÂ  Ã Ä  Å ï­  Æ èÇ  È wÉ  Ê hË  Ì ûÍ  Î çÏ  Ğ .Ñ  Ò ÔÓ  Ô ‹Õ  Ö ×  Ø ¿Ù  Ú €Û  Ü Áİ  Ş ×ß  à éá  â ûã  ä å  æ nç  è oé  è Ñê  ë ?   ì Tí  î ©ï  ğ –ñ  ğ gò  ó Cô  õ ö  ÷ êø  ù ú  û …ü  û æı  û Çş  û !ÿ  û   	  û c	  û B	  û ¢	  	 Š	  	 	  	 ä		  
+	 m	  
+	 	  	 ¤	  	 c	  	 ¶	  	 ¼	  	 Ç	  	 ¦	  	 Ç	  	 •	  	 ÿ	  	 ,	  	 ¦	  	  	  !	 ¤"	  #	 ë$	  %	 `&	  '	 Ù(	  '	 Y)	  *	 T+	  ,	 Á-	  ,	 Š.	  ,	 à/	  ,	 B0	  1	  2	  1	 &3	  4	 …5	  4	 ³6	  4	 7	  4	 j8	  4	 å9	  4	 Ä:	  ;	 <	  ;	 º=	  ;	 —>	  ?	 ?@	  A	 ÅB	  C	 ÌD	  E	 ÖF	  G	 vH	  I	 J	  K	 L	  M	 sN	  O	 WP	  Q	 R	  S	 kT	  U	 ÚV	  U	 €W	  X	 ÕY	  Z	 Æ[	  \	 ‚]	  ^	 »_	  `	 ma	  b	 [c	  d	 íe	  f	 Lg	  h	 ˆi	  j	 k	  l	 Lm	  n	 zo	  p	 1q	  r	 ›s	  t	 Àu	  v	 :w	  x	 [y	  z	 ñ{	  |	 !}	  ~	 	  €	 o	  ‚	 Qƒ	  „	 …	  †	 g‡	  ˆ	 ´‰	  Š	 S‹	  Œ	 “	  	 ­	  	 ´‘	  ’	 €“	  ”	 Ä•	  –	 ?—	  –	 É˜	  –	 Ø™	  š	 7›	  œ	 ©	  	 ŠŸ	   	 Ò¡	  ¢	 î£	  ¤	 A¥	  ¦	 Â§	  ¦	 Y¨	  ©	 tª	  «	 ,¬	  ­	 ,®	  ¯	 j°	  ±	 =²	  ³	 Ş´	  µ	 ™¶	  ·	 '¸	  ¹	 ëº	  »	 i¼	  ½	 O¾	  ¿	 TÀ	  Á	 ’Â	  Ã	 Ä	  Å	 DÆ	  Ç	 È	  É	 ÒÊ	  Ë	 9Ì	  Í	 ¶Î	  Ï	 JĞ	  Ï	 fÑ	  Ï	 Ò	  Ó	 nÔ	  Õ	 Ö	  ×	 [Ø	  Ù	 Ú	  Û	 Ü	  İ	 ¨Ş	  İ	 Ëß	  à	 Úá	  à	 ,â	  ã	 cä	  å	 æ	  ç	 Øè	  é	 ßê	  é	 oë	  é	 ®ì	  é	 ©í	  î	 ôï	  î	 tğ	  ñ	 ğò	  ó	 ³ô	  õ	 Ëö	  ÷	 ñø	  ù	 àú	  û	 Bü	  ı	 áş	  ÿ	 U 
+  
+ o
+  
+ º
+  
+ ’
+  
+ Æ
+  	
+ (
+
+  
+ J
+  
+ ˜
+  
+ i
+  
+ Ú
+  
+ ü
+  
+ ç
+  
+ ‘
+  
+ ¹
+  
+ f
+  
+ ”
+  
+ ( 
+  !
+ u"
+  #
+ ó$
+  %
+ &
+  '
+ æ(
+  )
+ A*
+  +
+ z,
+  +
+ $-
+  +
+ ^.
+  +
+ g/
+  +
+ õ0
+  1
+ …2
+  3
+ ?@	  4
+ Z5
+  6
+ ÿ7
+  6
+ ”8
+  9
+ T:
+  ;
+ í<
+  =
+ >
+  ?
+ @
+  A
+ 9B
+  C
+ D
+  E
+ åF
+  G
+ nH
+  I
+ äJ
+  K
+ —L
+  K
+ mM
+  N
+ YO
+  ¹ ùº  P
+ Q
+  P
+ ñR
+  S
+ .T
+  S
+ .U
+  S
+ ×V
+  W
+ İX
+  Y
+ êZ
+  [
+ !\
+  ]
+ ­^
+  _
+ «`
+  a
+ Bb
+  c
+ ûd
+  e
+ f
+  g
+ sh
+  i
+ _j
+  k
+ Ğl
+  m
+ [n
+  o
+ ªp
+  q
+ ©r
+  s
+ út
+  u
+ v
+  u
+ ¹w
+  x
+ ëy
+  x
+ ™z
+  {
+ +|
+  {
+ v}
+  ~
+ »
+  ~
+ €
+  
+ b‚
+  ƒ
+ „
+  ƒ
+ …
+  †
+ —‡
+  ˆ
+ w‰
+  Š
+ Í‹
+  Š
+ ›Œ
+  
+ Û
+  
+ Ğ
+  
+ Õ‘
+  
+ 3’
+  
+ ³“
+  
+ ”
+  
+ •
+  
+ ¸–
+  —
+ ¾˜
+  ™
+ ¿š
+  ›
+ œ
+  
+ 
+  Ÿ
+ V 
+  Ÿ
+ ¡
+  ¢
+ f£
+  ¤
+ •¥
+  ¤
+ ¦
+  ¤
+ Ÿ§
+  ¤
+ ²¨
+  ¤
+ Ñ©
+  ¤
+ ª
+  «
+ N¬
+  ­
+ ®®
+  ­
+ ¯
+  ­
+ ™°
+  ±
+ $²
+  ³
+ €´
+  µ
+ ç¶
+  ·
+ Zì  ¸
+ Y¹
+  º
+ @»
+  ¼
+ F½
+  ¾
+ ¿¿
+  À
+ PÁ
+  Â
+ ğò	  Ã
+ ²Ä
+  Å
+ Æ
+  Ç
+ eÈ
+  É
+  Ê
+  Ë
+ "Ì
+  Í
+ 0Î
+  Ï
+ @Ğ
+  Ñ
+ CÒ
+  Ó
+ œÔ
+  Õ
+ \Ö
+  ×
+ ­Ø
+  Ù
+  Ú
+  Û
+  Ü
+  İ
+  Ş
+  ß
+ Âà
+  á
+ â
+  ã
+ ‰ä
+  å
+ xæ
+  ç
+ ¥è
+  é
+ vê
+  ë
+ ’ì
+  ë
+ £í
+  î
+ ‚ï
+  î
+ 
+ğ
+  î
+ íñ
+  î
+ ïò
+  î
+ ‰ó
+  î
+ xô
+  î
+ Ãõ
+  ö
+ ‡÷
+  ö
+ 8ø
+  ö
+ °ù
+  ö
+ Ÿú
+  û
+ nü
+  ı
+ ş
+  ÿ
+ q    ‘   ä   h   À   5	  
+     ã   •   ;   R   Q   ¾   À   Í      ‰   ã    !  " G#  " $  " ‹%  & G'  & c(  & )  & *  & s+  , `-  . è/  . à0  1 a2  3 F4  3 Â5  6 Y7  6 È8  9 [:  ; R<  ; ú=  > )?  > r@  A ‚B  A _C  D ¦E  F VG  H ©I  J BK  L áM  N ,O  P mQ  R ôS  T ÙU  V †W  X ÕY  Z «[  \ §]  ^ ã_  `  a  ` ³b  c -d  e åf  g h  i 5j  k †l  m n  o pp  q 
+r  s ít  u ³v  w ¹x  w Dy  z ;{  | Œ}  ~   € ?  ‚ _ƒ  „ 8…  † g‡  † ×ˆ  † ¯‰  Š ˜‹  Œ `  Œ    +  ‘ -’  “ «”  • u–  — [˜  ™ Ëš  › œ   ¯  Ÿ Ÿ     ¡	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€		‚	ƒ	„	…	†	‡	ˆ	‰	Š	‹	Œ					‘	’	“	”	•	–	—	˜	™	š	›	œ			Ÿ	 	¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	­	®	¯	°	±	²	³	´	µ	¶	·	¸	¹	º	»	¼	½	¾	¿	À	Á	Â	Ã	Ä	Å	Æ	Ç	È	É	Ê	Ë	Ì	Í	Î	Ï	Ğ	Ñ	Ò	Ó	Ô	Õ	Ö	×	Ø	Ù	Ú	Û	Ü	İ	Ş	ß	à	á	â	ã	ä	å	æ	ç	è	é	ê	ë	ì	í	î	ï	ğ	ñ	ò	ó	ô	õ	ö	÷	ø	ù	ú	û	ü	ı	ş	ÿ	€
+
+‚
+ƒ
+„
+…
+†
+‡
+ˆ
+‰
+Š
+‹
+Œ
+
+
+
+
+‘
+’
+“
+”
+•
+–
+—
+˜
+™
+š
+›
+œ
+
+
+Ÿ
+ 
+¡
+¢
+£
+¤
+¥
+¦
+§
+¨
+©
+ª
+«
+¬
+­
+®
+¯
+°
+±
+²
+³
+´
+µ
+¶
+·
+¸
+¹
+º
+»
+¼
+½
+¾
+¿
+À
+Á
+Â
+Ã
+Ä
+Å
+Æ
+Ç
+È
+É
+Ê
+Ë
+Ì
+Í
+Î
+Ï
+Ğ
+Ñ
+Ò
+Ó
+Ô
+Õ
+Ö
+×
+Ø
+Ù
+Ú
+Û
+Ü
+İ
+Ş
+ß
+à
+á
+â
+ã
+ä
+å
+æ
+ç
+è
+é
+ê
+ë
+ì
+í
+î
+ï
+ğ
+ñ
+ò
+ó
+ô
+õ
+ö
+÷
+ø
+ù
+ú
+û
+ü
+ı
+ş
+ÿ
+€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡  	                                                                                                                                                                                                                                                                                                                                                      V                                                                                                                                                                                                                                                                                                                                                    U                                                                                                                                                                                                                                                                                                                                                     V                                                                                                                                                                                                                                                                                                                                                     V                                                                                                                                                                                                                                                                                                                                                    U                                                                                                                                                                                                                                                                                                                                                     V                                                                                                                                                                                                                                                                                                                                                     V                                                                                                                                                                                                                                                                                                                                                    U                                                                                                                                                                                                                                                                                                                                                     V                                                                                                                                          ª   «   «   ª   «   «   ª   «   «     

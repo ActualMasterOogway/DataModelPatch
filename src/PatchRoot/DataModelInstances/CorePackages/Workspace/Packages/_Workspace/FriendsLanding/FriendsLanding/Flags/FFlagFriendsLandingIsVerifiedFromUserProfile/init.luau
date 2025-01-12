@@ -1,0 +1,1 @@
+return game:DefineFastFlag("FriendsLandingIsVerifiedFromUserProfile_v2", false);

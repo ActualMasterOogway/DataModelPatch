@@ -1,0 +1,4 @@
+game:DefineFastFlag("AppChatDisableNavToGameDetails", false);
+return function() --[[ Line: 3 ]]
+    return game:GetFastFlag("AppChatDisableNavToGameDetails");
+end;

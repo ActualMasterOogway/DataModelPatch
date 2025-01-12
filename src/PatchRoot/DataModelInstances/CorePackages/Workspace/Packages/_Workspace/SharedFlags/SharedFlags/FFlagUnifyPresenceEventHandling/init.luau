@@ -1,0 +1,1 @@
+return game:DefineFastFlag("UnifyPresenceEventHandling_v1", false);

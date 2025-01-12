@@ -1,0 +1,1 @@
+return game:DefineFastFlag("EnableCapturesHotkeyExperiment_v4", false);

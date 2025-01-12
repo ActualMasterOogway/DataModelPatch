@@ -1,0 +1,1 @@
+return game:DefineFastFlag("FriendsCarouselSmallerUIExperiment_1", false);

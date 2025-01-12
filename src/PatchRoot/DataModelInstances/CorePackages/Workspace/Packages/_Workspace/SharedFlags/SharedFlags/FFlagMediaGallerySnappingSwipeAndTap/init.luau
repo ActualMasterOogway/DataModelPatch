@@ -1,0 +1,1 @@
+return require(script.Parent.FFlagMediaGalleryFullViewMobile) and game:DefineFastFlag("MediaGallerySnappingSwipeAndTap2", false);

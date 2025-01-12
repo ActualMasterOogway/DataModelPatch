@@ -1,0 +1,1 @@
+return require(script.Parent.FFlagEDPContextRedesign) and game:DefineFastFlag("MediaGalleryFullViewMobile", false);

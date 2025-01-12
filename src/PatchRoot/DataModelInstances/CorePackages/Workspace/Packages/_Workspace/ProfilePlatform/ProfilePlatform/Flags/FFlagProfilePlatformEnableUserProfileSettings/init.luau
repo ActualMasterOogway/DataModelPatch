@@ -1,0 +1,1 @@
+return game:DefineFastFlag("ProfilePlatformEnableUserProfileSettings_DEV", false);

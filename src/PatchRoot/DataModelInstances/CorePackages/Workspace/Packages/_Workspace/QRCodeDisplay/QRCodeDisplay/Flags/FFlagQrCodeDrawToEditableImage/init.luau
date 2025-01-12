@@ -1,0 +1,1 @@
+return game:DefineFastFlag("QrCodeDrawToEditableImage3", false) and game:GetEngineFeature("EditableImageApiUpdateEnabledQRCode");

@@ -1,0 +1,1 @@
+return require(script.Parent.GetFFlagEnableAmpVPCUpsellSupport)() and game:DefineFastFlag("LuaAppVpcUpsell3", false);

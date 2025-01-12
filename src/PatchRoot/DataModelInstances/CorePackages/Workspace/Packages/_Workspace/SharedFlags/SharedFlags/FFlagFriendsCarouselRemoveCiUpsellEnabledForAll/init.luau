@@ -1,0 +1,1 @@
+return require(script.Parent.FFlagFriendsCarouselRemoveCiUpsellExperiment) and game:DefineFastFlag("FriendsCarouselRemoveCiUpsellEnabledForAll", false);

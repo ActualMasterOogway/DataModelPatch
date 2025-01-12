@@ -1,0 +1,2 @@
+local l_script_FirstAncestor_0 = script:FindFirstAncestor("ReactSceneUnderstanding");
+return require(l_script_FirstAncestor_0.Parent.SafeFlags).createGetFString("SceneAnalysisProcessingMode", "AudioInstances");

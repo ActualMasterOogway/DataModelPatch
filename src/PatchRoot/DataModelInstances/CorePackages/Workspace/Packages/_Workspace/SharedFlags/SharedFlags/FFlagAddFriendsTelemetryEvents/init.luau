@@ -1,0 +1,1 @@
+return require(script.Parent.FFlagAddFriendsMigrateAnalytics) and game:DefineFastFlag("AddFriendsTelemetryEvents", false);

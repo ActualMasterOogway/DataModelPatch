@@ -1,0 +1,9 @@
+local l_Parent_0 = script.Parent.Parent;
+local v1 = require(l_Parent_0.Analytics.DiagEvents);
+local v2 = require(l_Parent_0.Analytics.Enums.EventNames);
+return function(v3) --[[ Line: 5 ]]
+    -- upvalues: v2 (copy), v1 (copy)
+    assert(v2.isEnumValue(v3), "Invalid event name");
+    local v4 = v1[v3];
+    return v4.name, v4.count or 1;
+end;
